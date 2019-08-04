@@ -1,0 +1,72 @@
+GHDB;;Web Server Detection;;2006-05-23;;intitle:"BadBlue: the file-sharing web server anyone can use";;http://www.exploit-db.com/ghdb/1378/
+GHDB;;Web Server Detection;;2006-05-03;;intext:"Target Multicast Group" "beacon";;http://www.exploit-db.com/ghdb/1363/
+GHDB;;Web Server Detection;;2006-05-03;;intitle:"Apache Status" "Apache Server Status for";;http://www.exploit-db.com/ghdb/1355/
+GHDB;;Web Server Detection;;2006-02-08;;inurl:wl.exe inurl:?SS1= intext:"Operating system:" -edu -gov -mil;;http://www.exploit-db.com/ghdb/1262/
+GHDB;;Web Server Detection;;2005-11-16;;inurl:nnls_brand.html OR inurl:nnls_nav.html;;http://www.exploit-db.com/ghdb/1194/
+GHDB;;Web Server Detection;;2005-05-30;;(intitle:"502 Proxy Error")|(intitle:"503 Proxy Error") "The proxy server could not handle the request" -topic -mail -4suite -list -site:geocrawler.co;;http://www.exploit-db.com/ghdb/986/
+GHDB;;Web Server Detection;;2005-05-20;;intitle:"Welcome to 602LAN SUITE *";;http://www.exploit-db.com/ghdb/982/
+GHDB;;Web Server Detection;;2005-05-02;;intitle:"Document title goes here" intitle:"used by web search tools" " example of a simple Home Page";;http://www.exploit-db.com/ghdb/967/
+GHDB;;Web Server Detection;;2005-05-02;;intitle:"Welcome To Your WebSTAR Home Page";;http://www.exploit-db.com/ghdb/961/
+GHDB;;Web Server Detection;;2005-04-27;;intitle:"Welcome to the Advanced Extranet Server, ADVX!";;http://www.exploit-db.com/ghdb/952/
+GHDB;;Web Server Detection;;2005-04-16;;intitle:"Welcome to Windows Small Business Server 2003";;http://www.exploit-db.com/ghdb/932/
+GHDB;;Web Server Detection;;2005-03-29;;thttpd webserver;;http://www.exploit-db.com/ghdb/923/
+GHDB;;Web Server Detection;;2005-03-29;;intitle:"IPC@CHIP Infopage";;http://www.exploit-db.com/ghdb/922/
+GHDB;;Web Server Detection;;2005-03-31;;yaws.*.server.at;;http://www.exploit-db.com/ghdb/921/
+GHDB;;Web Server Detection;;2005-03-20;;intitle:"Test Page for the Apache HTTP Server on Fedora Core" intext:"Fedora Core Test Page";;http://www.exploit-db.com/ghdb/912/
+GHDB;;Web Server Detection;;2005-03-18;;Powered.by.RaidenHTTPD intitle:index.of;;http://www.exploit-db.com/ghdb/893/
+GHDB;;Web Server Detection;;2005-03-05;;(inurl:81-cobalt | inurl:cgi-bin/.cobalt);;http://www.exploit-db.com/ghdb/882/
+GHDB;;Web Server Detection;;2005-02-15;;intitle:"welcome to mono xsp";;http://www.exploit-db.com/ghdb/866/
+GHDB;;Web Server Detection;;2005-01-27;;inurl:oraweb -site:oraweb.org;;http://www.exploit-db.com/ghdb/842/
+GHDB;;Web Server Detection;;2005-01-26;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/834/
+GHDB;;Web Server Detection;;2005-01-21;;XAMPP "inurl:xampp/index";;http://www.exploit-db.com/ghdb/827/
+GHDB;;Web Server Detection;;2004-12-13;;inurl:2506/jana-admin;;http://www.exploit-db.com/ghdb/768/
+GHDB;;Web Server Detection;;2004-12-13;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/764/
+GHDB;;Web Server Detection;;2004-11-30;;intitle:"Resin Default Home Page";;http://www.exploit-db.com/ghdb/732/
+GHDB;;Web Server Detection;;2004-11-28;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/716/
+GHDB;;Web Server Detection;;2004-11-13;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/671/
+GHDB;;Web Server Detection;;2004-11-07;;"About Mac OS Personal Web Sharing";;http://www.exploit-db.com/ghdb/658/
+GHDB;;Web Server Detection;;2004-11-07;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/655/
+GHDB;;Web Server Detection;;2004-10-12;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/563/
+GHDB;;Web Server Detection;;2004-10-12;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/559/
+GHDB;;Web Server Detection;;2004-10-12;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/558/
+GHDB;;Web Server Detection;;2004-10-12;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/557/
+GHDB;;Web Server Detection;;2004-10-12;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/556/
+GHDB;;Web Server Detection;;2004-10-09;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/538/
+GHDB;;Web Server Detection;;2004-09-26;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/511/
+GHDB;;Web Server Detection;;2004-08-16;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/435/
+GHDB;;Web Server Detection;;2004-07-29;;intitle:"Shoutcast Administrator";;http://www.exploit-db.com/ghdb/390/
+GHDB;;Web Server Detection;;2004-07-29;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/389/
+GHDB;;Web Server Detection;;2004-07-26;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/382/
+GHDB;;Web Server Detection;;2004-07-19;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/361/
+GHDB;;Web Server Detection;;2004-07-19;;fitweb-wwws * server at intitle:index.of;;http://www.exploit-db.com/ghdb/360/
+GHDB;;Web Server Detection;;2004-07-19;;sEDWebserver * server +at intitle:index.of;;http://www.exploit-db.com/ghdb/359/
+GHDB;;Web Server Detection;;2004-07-19;;"Red Hat Secure/3.0 server at";;http://www.exploit-db.com/ghdb/358/
+GHDB;;Web Server Detection;;2004-07-19;;"Red Hat Secure/2.0";;http://www.exploit-db.com/ghdb/357/
+GHDB;;Web Server Detection;;2004-07-19;;"OpenSA/1.0.4" intitle:index.of;;http://www.exploit-db.com/ghdb/356/
+GHDB;;Web Server Detection;;2004-07-19;;"OmniHTTPd/2.10" intitle:index.of;;http://www.exploit-db.com/ghdb/355/
+GHDB;;Web Server Detection;;2004-07-19;;"Microsoft-IIS/6.0" intitle:index.of;;http://www.exploit-db.com/ghdb/354/
+GHDB;;Web Server Detection;;2004-07-19;;"Microsoft-IIS/5.0 server at";;http://www.exploit-db.com/ghdb/353/
+GHDB;;Web Server Detection;;2004-07-19;;"Microsoft-IIS/4.0" intitle:index.of;;http://www.exploit-db.com/ghdb/352/
+GHDB;;Web Server Detection;;2004-07-19;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/351/
+GHDB;;Web Server Detection;;2004-07-19;;"MaXX/3.1" intitle:index.of;;http://www.exploit-db.com/ghdb/350/
+GHDB;;Web Server Detection;;2004-07-19;;"JRun Web Server" intitle:index.of;;http://www.exploit-db.com/ghdb/349/
+GHDB;;Web Server Detection;;2004-07-19;;"CERN httpd 3.0B (VAX VMS)";;http://www.exploit-db.com/ghdb/348/
+GHDB;;Web Server Detection;;2004-07-19;;"AnWeb/1.42h" intitle:index.of;;http://www.exploit-db.com/ghdb/347/
+GHDB;;Web Server Detection;;2004-07-12;;Red Hat Unix Administration;;http://www.exploit-db.com/ghdb/329/
+GHDB;;Web Server Detection;;2004-07-02;;Environment vars;;http://www.exploit-db.com/ghdb/303/
+GHDB;;Web Server Detection;;2004-06-18;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/290/
+GHDB;;Web Server Detection;;2004-05-17;;inurl:domcfg.nsf;;http://www.exploit-db.com/ghdb/242/
+GHDB;;Web Server Detection;;2004-05-13;;intitle:"300 multiple choices";;http://www.exploit-db.com/ghdb/226/
+GHDB;;Web Server Detection;;2004-04-23;;intitle:Snap.Server inurl:Func=;;http://www.exploit-db.com/ghdb/178/
+GHDB;;Web Server Detection;;2004-04-20;;intitle:"Test Page for Apache";;http://www.exploit-db.com/ghdb/171/
+GHDB;;Web Server Detection;;2004-03-18;;allintitle:Netscape FastTrack Server Home Page;;http://www.exploit-db.com/ghdb/132/
+GHDB;;Web Server Detection;;2004-03-04;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/109/
+GHDB;;Web Server Detection;;2004-03-04;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/108/
+GHDB;;Web Server Detection;;2004-03-04;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/107/
+GHDB;;Web Server Detection;;2003-08-11;;"Netware * Home" inurl:nav.html;;http://www.exploit-db.com/ghdb/52/
+GHDB;;Web Server Detection;;2003-08-11;;index_i.shtml Ready (Xerox printers on the web!);;http://www.exploit-db.com/ghdb/51/
+GHDB;;Web Server Detection;;2003-08-07;;inurl:tech-support inurl:show Cisco;;http://www.exploit-db.com/ghdb/50/
+GHDB;;Web Server Detection;;2003-06-24;;OpenBSD running Apache;;http://www.exploit-db.com/ghdb/16/
+GHDB;;Web Server Detection;;2003-06-24;;IIS 4.0;;http://www.exploit-db.com/ghdb/14/
+GHDB;;Web Server Detection;;2003-06-24;;Windows 2000 Internet Services;;http://www.exploit-db.com/ghdb/13/
+GHDB;;Web Server Detection;;2003-06-24;;Apache online documentation;;http://www.exploit-db.com/ghdb/4/

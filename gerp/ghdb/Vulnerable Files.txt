@@ -1,0 +1,60 @@
+GHDB;;Vulnerable Files;;2011-08-25;;allinurl:forcedownload.php?file=;;http://www.exploit-db.com/ghdb/3738/
+GHDB;;Vulnerable Files;;2011-05-28;;ionCube Loader Wizard information disclosure;;http://www.exploit-db.com/ghdb/3723/
+GHDB;;Vulnerable Files;;2011-05-27;;vBulletin Install Page Detection;;http://www.exploit-db.com/ghdb/3722/
+GHDB;;Vulnerable Files;;2006-09-13;;inurl:"simplenews/admin";;http://www.exploit-db.com/ghdb/1412/
+GHDB;;Vulnerable Files;;2006-02-28;;inurl:updown.php | intext:"Powered by PHP Uploader Downloader";;http://www.exploit-db.com/ghdb/1306/
+GHDB;;Vulnerable Files;;2005-12-19;;inurl:guestbook/guestbooklist.asp "Post Date" From;;http://www.exploit-db.com/ghdb/1222/
+GHDB;;Vulnerable Files;;2005-10-26;;intitle:"CJ Link Out V1";;http://www.exploit-db.com/ghdb/1172/
+GHDB;;Vulnerable Files;;2005-09-26;;"powered by mailgust";;http://www.exploit-db.com/ghdb/1147/
+GHDB;;Vulnerable Files;;2005-09-26;;"powered by my little forum";;http://www.exploit-db.com/ghdb/1146/
+GHDB;;Vulnerable Files;;2005-09-25;;intitle:"Control panel" "Control Panel Login" ArticleLive inurl:admin -demo;;http://www.exploit-db.com/ghdb/1139/
+GHDB;;Vulnerable Files;;2005-09-25;;inurl:cartwiz/store/index.asp;;http://www.exploit-db.com/ghdb/1138/
+GHDB;;Vulnerable Files;;2005-09-13;;"e107.org 2002/2003" inurl:forum_post.php?nt;;http://www.exploit-db.com/ghdb/1110/
+GHDB;;Vulnerable Files;;2005-09-13;;"maxwebportal" inurl:"default" "snitz forums" +"homepage" -intitle:maxwebportal;;http://www.exploit-db.com/ghdb/1100/
+GHDB;;Vulnerable Files;;2005-09-11;;"Mail-it Now!" intitle:"Contact form" | inurl:contact.php;;http://www.exploit-db.com/ghdb/1099/
+GHDB;;Vulnerable Files;;2005-09-11;;"Warning:" "Cannot execute a blank command in";;http://www.exploit-db.com/ghdb/1098/
+GHDB;;Vulnerable Files;;2005-09-08;;"Powered by Xcomic";;http://www.exploit-db.com/ghdb/1096/
+GHDB;;Vulnerable Files;;2005-08-08;;"Powered by FunkBoard";;http://www.exploit-db.com/ghdb/1057/
+GHDB;;Vulnerable Files;;2005-08-07;;"Powered by FlexPHPNews" inurl:news | inurl:press;;http://www.exploit-db.com/ghdb/1056/
+GHDB;;Vulnerable Files;;2005-08-07;;"Powered By: Simplicity oF Upload" inurl:download.php | inurl:upload.php;;http://www.exploit-db.com/ghdb/1055/
+GHDB;;Vulnerable Files;;2005-08-07;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/1054/
+GHDB;;Vulnerable Files;;2005-08-07;;PHPFreeNews inurl:Admin.php;;http://www.exploit-db.com/ghdb/1053/
+GHDB;;Vulnerable Files;;2005-08-07;;"Powered by SilverNews";;http://www.exploit-db.com/ghdb/1052/
+GHDB;;Vulnerable Files;;2005-08-07;;"Powered by Gravity Board";;http://www.exploit-db.com/ghdb/1051/
+GHDB;;Vulnerable Files;;2005-07-26;;filetype:mdb "standard jet";;http://www.exploit-db.com/ghdb/1045/
+GHDB;;Vulnerable Files;;2005-06-03;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/1002/
+GHDB;;Vulnerable Files;;2005-05-20;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/984/
+GHDB;;Vulnerable Files;;2005-04-27;;inurl:cgi-bin inurl:bigate.cgi;;http://www.exploit-db.com/ghdb/953/
+GHDB;;Vulnerable Files;;2004-12-01;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/734/
+GHDB;;Vulnerable Files;;2004-11-30;;filetype:mdb inurl:"news/news";;http://www.exploit-db.com/ghdb/730/
+GHDB;;Vulnerable Files;;2004-11-28;;inurl:php.exe filetype:exe -example.com;;http://www.exploit-db.com/ghdb/721/
+GHDB;;Vulnerable Files;;2004-11-18;;"Powered by Land Down Under 601";;http://www.exploit-db.com/ghdb/690/
+GHDB;;Vulnerable Files;;2004-11-16;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/677/
+GHDB;;Vulnerable Files;;2004-11-16;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/676/
+GHDB;;Vulnerable Files;;2004-11-04;;filetype:cgi inurl:cachemgr.cgi;;http://www.exploit-db.com/ghdb/645/
+GHDB;;Vulnerable Files;;2004-10-31;;"powered by YellDL";;http://www.exploit-db.com/ghdb/633/
+GHDB;;Vulnerable Files;;2004-10-27;;inurl:click.php intext:PHPClickLog;;http://www.exploit-db.com/ghdb/629/
+GHDB;;Vulnerable Files;;2004-10-27;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/628/
+GHDB;;Vulnerable Files;;2004-10-26;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/615/
+GHDB;;Vulnerable Files;;2004-10-19;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/585/
+GHDB;;Vulnerable Files;;2004-10-16;;ezBOO "Administrator Panel" -cvs;;http://www.exploit-db.com/ghdb/576/
+GHDB;;Vulnerable Files;;2004-10-14;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/568/
+GHDB;;Vulnerable Files;;2004-10-14;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/565/
+GHDB;;Vulnerable Files;;2004-10-09;;inurl:changepassword.cgi -cvs;;http://www.exploit-db.com/ghdb/543/
+GHDB;;Vulnerable Files;;2004-10-06;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/535/
+GHDB;;Vulnerable Files;;2004-10-05;;inurl:cgi.asx?StoreID;;http://www.exploit-db.com/ghdb/524/
+GHDB;;Vulnerable Files;;2004-09-18;;filetype:lit lit (books|ebooks);;http://www.exploit-db.com/ghdb/479/
+GHDB;;Vulnerable Files;;2004-09-13;;PHP-Nuke - create super user right now !;;http://www.exploit-db.com/ghdb/475/
+GHDB;;Vulnerable Files;;2004-09-10;;Gallery configuration setup files;;http://www.exploit-db.com/ghdb/470/
+GHDB;;Vulnerable Files;;2004-09-09;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/466/
+GHDB;;Vulnerable Files;;2004-09-06;;link:http://www.toastforums.com/;;http://www.exploit-db.com/ghdb/459/
+GHDB;;Vulnerable Files;;2004-09-06;;inurl:"plog/register.php";;http://www.exploit-db.com/ghdb/458/
+GHDB;;Vulnerable Files;;2004-08-30;;inurl:robpoll.cgi filetype:cgi;;http://www.exploit-db.com/ghdb/454/
+GHDB;;Vulnerable Files;;2004-08-20;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/439/
+GHDB;;Vulnerable Files;;2004-08-13;;ext:cgi inurl:ubb6_test;;http://www.exploit-db.com/ghdb/429/
+GHDB;;Vulnerable Files;;2004-08-01;;filetype:inc inc intext:setcookie;;http://www.exploit-db.com/ghdb/396/
+GHDB;;Vulnerable Files;;2004-08-01;;filetype:wsdl wsdl;;http://www.exploit-db.com/ghdb/395/
+GHDB;;Vulnerable Files;;2004-07-21;;filetype:cnf my.cnf -cvs -example;;http://www.exploit-db.com/ghdb/369/
+GHDB;;Vulnerable Files;;2004-06-16;;inurl:nquser.php filetype:php;;http://www.exploit-db.com/ghdb/289/
+GHDB;;Vulnerable Files;;2004-06-10;;intitle:"Index of /" modified php.exe;;http://www.exploit-db.com/ghdb/284/
+GHDB;;Vulnerable Files;;2003-06-24;;The Master List;;http://www.exploit-db.com/ghdb/30/

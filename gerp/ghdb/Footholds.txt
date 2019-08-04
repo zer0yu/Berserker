@@ -1,0 +1,27 @@
+GHDB;;Footholds;;2013-08-08;;inurl:1337w0rm.php intitle:1337w0rm;;http://www.exploit-db.com/ghdb/3867/
+GHDB;;Footholds;;2012-11-02;;inurl:"r00t.php";;http://www.exploit-db.com/ghdb/3816/
+GHDB;;Footholds;;2012-11-02;;intitle:C0ded By web.sniper;;http://www.exploit-db.com/ghdb/3808/
+GHDB;;Footholds;;2012-11-02;;intitle:Priv8 SCR;;http://www.exploit-db.com/ghdb/3807/
+GHDB;;Footholds;;2011-09-26;;inurl:"amfphp/browser/servicebrowser.swf";;http://www.exploit-db.com/ghdb/3744/
+GHDB;;Footholds;;2011-01-09;;allintext:"fs-admin.php";;http://www.exploit-db.com/ghdb/3668/
+GHDB;;Footholds;;2006-05-03;;(intitle:"SHOUTcast Administrator")|(intext:"U SHOUTcast D.N.A.S. Status");;http://www.exploit-db.com/ghdb/1361/
+GHDB;;Footholds;;2006-03-15;;(intitle:"WordPress ÃƒÂ¢Ã¢â€šÂ¬Ã‚Âº Setup Configuration File")|(inurl:"setup-config.php?step=");;http://www.exploit-db.com/ghdb/1275/
+GHDB;;Footholds;;2006-03-06;;"index of /" ( upload.cfm | upload.asp | upload.php | upload.cgi | upload.jsp | upload.pl );;http://www.exploit-db.com/ghdb/1270/
+GHDB;;Footholds;;2006-02-08;;"Please re-enter your password It must match exactly";;http://www.exploit-db.com/ghdb/1258/
+GHDB;;Footholds;;2006-01-04;;inurl:"tmtrack.dll?";;http://www.exploit-db.com/ghdb/1245/
+GHDB;;Footholds;;2005-10-06;;inurl:polly/CP;;http://www.exploit-db.com/ghdb/1163/
+GHDB;;Footholds;;2005-09-25;;intitle:"net2ftp" "powered by net2ftp" inurl:ftp OR intext:login OR inurl:login;;http://www.exploit-db.com/ghdb/1137/
+GHDB;;Footholds;;2005-08-15;;intitle:MyShell 1.1.0 build 20010923;;http://www.exploit-db.com/ghdb/1064/
+GHDB;;Footholds;;2005-05-02;;intitle:"YALA: Yet Another LDAP Administrator";;http://www.exploit-db.com/ghdb/965/
+GHDB;;Footholds;;2005-04-27;;intitle:"ERROR: The requested URL could not be retrieved" "While trying to retrieve the URL" "The following error was encountered:";;http://www.exploit-db.com/ghdb/959/
+GHDB;;Footholds;;2004-12-19;;inurl:"phpOracleAdmin/php" -download -cvs;;http://www.exploit-db.com/ghdb/776/
+GHDB;;Footholds;;2004-11-28;;PHPKonsole PHPShell filetype:php -echo;;http://www.exploit-db.com/ghdb/725/
+GHDB;;Footholds;;2004-11-28;;filetype:php HAXPLORER "Server Files Browser";;http://www.exploit-db.com/ghdb/710/
+GHDB;;Footholds;;2004-11-06;;inurl:ConnectComputer/precheck.htm | inurl:Remote/logon.aspx;;http://www.exploit-db.com/ghdb/651/
+GHDB;;Footholds;;2004-10-22;;inurl:ConnectComputer/precheck.htm | inurl:Remote/logon.aspx;;http://www.exploit-db.com/ghdb/610/
+GHDB;;Footholds;;2004-10-09;;intitle:"Web Data Administrator - Login";;http://www.exploit-db.com/ghdb/537/
+GHDB;;Footholds;;2004-07-20;;inurl:ConnectComputer/precheck.htm | inurl:Remote/logon.aspx;;http://www.exploit-db.com/ghdb/367/
+GHDB;;Footholds;;2004-07-12;;PHP Shell (unprotected);;http://www.exploit-db.com/ghdb/327/
+GHDB;;Footholds;;2004-07-12;;Public PHP FileManagers;;http://www.exploit-db.com/ghdb/323/
+GHDB;;Footholds;;2004-05-20;;+htpasswd +WS_FTP.LOG filetype:log;;http://www.exploit-db.com/ghdb/246/
+GHDB;;Footholds;;2003-09-09;;intitle:admin intitle:login;;http://www.exploit-db.com/ghdb/56/

@@ -1,0 +1,9 @@
+GHDB;;Sensitive Online Shopping Info;;2005-06-03;;intext:"Powered by X-Cart: shopping cart software" -site:x-cart.com;;http://www.exploit-db.com/ghdb/1000/
+GHDB;;Sensitive Online Shopping Info;;2005-05-29;;intext:"powered by Hosting Controller" intitle:Hosting.Controller;;http://www.exploit-db.com/ghdb/988/
+GHDB;;Sensitive Online Shopping Info;;2004-11-25;;site:ups.com intitle:"Ups Package tracking" intext:"1Z ### ### ## #### ### #";;http://www.exploit-db.com/ghdb/735/
+GHDB;;Sensitive Online Shopping Info;;2004-10-10;;inurl:midicart.mdb;;http://www.exploit-db.com/ghdb/549/
+GHDB;;Sensitive Online Shopping Info;;2004-10-10;;"More Info about MetaCart Free";;http://www.exploit-db.com/ghdb/548/
+GHDB;;Sensitive Online Shopping Info;;2004-10-10;;inurl:shopdbtest.asp;;http://www.exploit-db.com/ghdb/545/
+GHDB;;Sensitive Online Shopping Info;;2004-07-12;;Comersus.mdb database;;http://www.exploit-db.com/ghdb/322/
+GHDB;;Sensitive Online Shopping Info;;2004-06-25;;VP-ASP Shop Administrators only;;http://www.exploit-db.com/ghdb/301/
+GHDB;;Sensitive Online Shopping Info;;2004-06-06;;POWERED BY HIT JAMMER 1.0!;;http://www.exploit-db.com/ghdb/280/

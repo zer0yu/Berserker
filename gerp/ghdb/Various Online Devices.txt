@@ -1,0 +1,228 @@
+GHDB;;Various Online Devices;;2013-08-08;;intitle:"Web Image Monitor" & inurl:"/mainFrame.cgi";;http://www.exploit-db.com/ghdb/3875/
+GHDB;;Various Online Devices;;2013-08-08;;intitle:"Transponder/EOL Configuration:" inurl:asp;;http://www.exploit-db.com/ghdb/3873/
+GHDB;;Various Online Devices;;2013-08-08;;intitle:"NetBotz Network Monitoring Appliance";;http://www.exploit-db.com/ghdb/3872/
+GHDB;;Various Online Devices;;2013-08-08;;intitle:"Weather Wing WS-2";;http://www.exploit-db.com/ghdb/3871/
+GHDB;;Various Online Devices;;2013-04-22;;inurl:/voice/advanced/ intitle:Linksys SPA configuration;;http://www.exploit-db.com/ghdb/3846/
+GHDB;;Various Online Devices;;2013-02-05;;inurl:/control/userimage.html;;http://www.exploit-db.com/ghdb/3830/
+GHDB;;Various Online Devices;;2012-11-02;;inurl:"Orion/SummaryView.aspx" intext:"Orion Core";;http://www.exploit-db.com/ghdb/3820/
+GHDB;;Various Online Devices;;2012-11-02;;inurl:"/level/13|14|15/exec/";;http://www.exploit-db.com/ghdb/3815/
+GHDB;;Various Online Devices;;2012-11-02;;intitle:"dd-wrt info" intext:"Firmware: DD-WRT";;http://www.exploit-db.com/ghdb/3814/
+GHDB;;Various Online Devices;;2012-11-02;;inurl:32400/web/index.html;;http://www.exploit-db.com/ghdb/3812/
+GHDB;;Various Online Devices;;2012-11-02;;intitle:"Pyxis Mobile Test Page" inurl:"mpTest.aspx";;http://www.exploit-db.com/ghdb/3810/
+GHDB;;Various Online Devices;;2012-08-21;;'apc info' 'apc.php?SCOPE=';;http://www.exploit-db.com/ghdb/3802/
+GHDB;;Various Online Devices;;2012-08-21;;intext:"You may also donate through the Moneybookers account mb@dd-wrt";;http://www.exploit-db.com/ghdb/3800/
+GHDB;;Various Online Devices;;2012-08-21;;intitle:"hp laserjet" inurl:info_configuration.htm;;http://www.exploit-db.com/ghdb/3793/
+GHDB;;Various Online Devices;;2012-05-15;;inurl:Settings.aspx intitle:Beyond TV;;http://www.exploit-db.com/ghdb/3787/
+GHDB;;Various Online Devices;;2012-05-15;;intitle:"HtmlAnvView:D7B039C1";;http://www.exploit-db.com/ghdb/3776/
+GHDB;;Various Online Devices;;2011-12-28;;inurl:cgi-bin/cosmobdf.cgi?;;http://www.exploit-db.com/ghdb/3772/
+GHDB;;Various Online Devices;;2011-12-27;;inurl:RgFirewallRL.asp | inurl:RgDmzHost.asp | inurl:RgMacFiltering.asp | inurl:RgConnect.asp | inurl:RgEventLog.asp | inurl:RgSecurity.asp | inurl:RgContentFilter.asp | inurl:wlanRadio.asp;;http://www.exploit-db.com/ghdb/3771/
+GHDB;;Various Online Devices;;2011-12-26;;intitle:SpectraIV-IP;;http://www.exploit-db.com/ghdb/3767/
+GHDB;;Various Online Devices;;2011-12-12;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/3759/
+GHDB;;Various Online Devices;;2011-12-10;;allintitle:"UniMep Station Controller";;http://www.exploit-db.com/ghdb/3758/
+GHDB;;Various Online Devices;;2011-07-26;;inurl:":9000" PacketVideo corporation;;http://www.exploit-db.com/ghdb/3734/
+GHDB;;Various Online Devices;;2010-11-21;;inurl:/level/15/exec/-;;http://www.exploit-db.com/ghdb/3612/
+GHDB;;Various Online Devices;;2010-11-21;;inurl:/exec/show/tech-support/cr;;http://www.exploit-db.com/ghdb/3611/
+GHDB;;Various Online Devices;;2010-11-21;;inurl:/level/15/exec/-/configure/http;;http://www.exploit-db.com/ghdb/3610/
+GHDB;;Various Online Devices;;2010-11-11;;allintitle:"SyncThru Web Service";;http://www.exploit-db.com/ghdb/1434/
+GHDB;;Various Online Devices;;2010-11-10;;intitle:”EvoCam” inurl:”webcam.html”;;http://www.exploit-db.com/ghdb/1424/
+GHDB;;Various Online Devices;;2006-10-02;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1421/
+GHDB;;Various Online Devices;;2006-10-02;;intitle:"Net2Phone Init Page";;http://www.exploit-db.com/ghdb/1420/
+GHDB;;Various Online Devices;;2006-10-02;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1419/
+GHDB;;Various Online Devices;;2006-10-02;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1418/
+GHDB;;Various Online Devices;;2006-10-02;;"Welcome to the CyberGuard unit!";;http://www.exploit-db.com/ghdb/1417/
+GHDB;;Various Online Devices;;2006-10-02;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1415/
+GHDB;;Various Online Devices;;2006-09-11;;inurl:wrcontrollite;;http://www.exploit-db.com/ghdb/1410/
+GHDB;;Various Online Devices;;2006-06-30;;allintitle:"DVR login";;http://www.exploit-db.com/ghdb/1397/
+GHDB;;Various Online Devices;;2006-06-29;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1395/
+GHDB;;Various Online Devices;;2006-06-25;;intitle:"BlueNet Video Viewer";;http://www.exploit-db.com/ghdb/1394/
+GHDB;;Various Online Devices;;2006-06-25;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1393/
+GHDB;;Various Online Devices;;2006-06-25;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1392/
+GHDB;;Various Online Devices;;2006-06-25;;intitle:"Divar Web Client";;http://www.exploit-db.com/ghdb/1391/
+GHDB;;Various Online Devices;;2006-06-25;;allintitle:  EDR400 login | Welcome;;http://www.exploit-db.com/ghdb/1389/
+GHDB;;Various Online Devices;;2006-06-25;;allintitle:  EDR1600 login | Welcome;;http://www.exploit-db.com/ghdb/1388/
+GHDB;;Various Online Devices;;2006-06-25;;allintitle:Edr1680 remote viewer;;http://www.exploit-db.com/ghdb/1387/
+GHDB;;Various Online Devices;;2006-06-25;;allintitle: EverFocus | EDSR | EDSR400 Applet;;http://www.exploit-db.com/ghdb/1386/
+GHDB;;Various Online Devices;;2006-06-22;;intitle:"SNC-RZ30 HOME" -demo;;http://www.exploit-db.com/ghdb/1385/
+GHDB;;Various Online Devices;;2006-05-04;;inurl:cgi-bin/guestimage.html;;http://www.exploit-db.com/ghdb/1376/
+GHDB;;Various Online Devices;;2006-05-04;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1374/
+GHDB;;Various Online Devices;;2006-05-04;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1373/
+GHDB;;Various Online Devices;;2006-05-04;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1372/
+GHDB;;Various Online Devices;;2006-05-03;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1365/
+GHDB;;Various Online Devices;;2006-04-19;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1335/
+GHDB;;Various Online Devices;;2006-04-18;;intitle:"IVC Control Panel";;http://www.exploit-db.com/ghdb/1334/
+GHDB;;Various Online Devices;;2006-03-21;;intitle:"Edr1680 remote viewer";;http://www.exploit-db.com/ghdb/1292/
+GHDB;;Various Online Devices;;2006-03-21;;"OK logout" inurl:vb.htm?logout=1;;http://www.exploit-db.com/ghdb/1291/
+GHDB;;Various Online Devices;;2006-03-21;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1290/
+GHDB;;Various Online Devices;;2006-03-18;;intitle:"GigaDrive Utility";;http://www.exploit-db.com/ghdb/1286/
+GHDB;;Various Online Devices;;2006-03-18;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1285/
+GHDB;;Various Online Devices;;2006-03-18;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1284/
+GHDB;;Various Online Devices;;2006-03-18;;intitle:"NAS" inurl:indexeng.html;;http://www.exploit-db.com/ghdb/1282/
+GHDB;;Various Online Devices;;2006-03-18;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1281/
+GHDB;;Various Online Devices;;2006-03-18;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1280/
+GHDB;;Various Online Devices;;2006-03-18;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1279/
+GHDB;;Various Online Devices;;2006-03-18;;intitle:"Webview Logon Page";;http://www.exploit-db.com/ghdb/1277/
+GHDB;;Various Online Devices;;2006-02-08;;inurl:setdo.cgi intext:"Set DO OK";;http://www.exploit-db.com/ghdb/1263/
+GHDB;;Various Online Devices;;2006-02-08;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1261/
+GHDB;;Various Online Devices;;2006-01-16;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1248/
+GHDB;;Various Online Devices;;2006-01-02;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1235/
+GHDB;;Various Online Devices;;2005-12-31;;DCS inurl:"/web/login.asp";;http://www.exploit-db.com/ghdb/1234/
+GHDB;;Various Online Devices;;2005-12-31;;intitle:Axis inurl:"/admin/admin.shtml";;http://www.exploit-db.com/ghdb/1233/
+GHDB;;Various Online Devices;;2005-12-31;;inurl:/img/vr.htm;;http://www.exploit-db.com/ghdb/1230/
+GHDB;;Various Online Devices;;2005-12-08;;inurl:Printers/ipp_0001.asp;;http://www.exploit-db.com/ghdb/1217/
+GHDB;;Various Online Devices;;2005-11-28;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1210/
+GHDB;;Various Online Devices;;2005-11-21;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1203/
+GHDB;;Various Online Devices;;2005-11-21;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1202/
+GHDB;;Various Online Devices;;2005-11-16;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1198/
+GHDB;;Various Online Devices;;2005-11-16;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1197/
+GHDB;;Various Online Devices;;2005-11-16;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1196/
+GHDB;;Various Online Devices;;2005-11-16;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1192/
+GHDB;;Various Online Devices;;2005-11-11;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1176/
+GHDB;;Various Online Devices;;2005-11-05;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1175/
+GHDB;;Various Online Devices;;2005-10-03;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1160/
+GHDB;;Various Online Devices;;2005-09-29;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1155/
+GHDB;;Various Online Devices;;2005-09-29;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1154/
+GHDB;;Various Online Devices;;2005-09-26;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1151/
+GHDB;;Various Online Devices;;2005-09-21;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1123/
+GHDB;;Various Online Devices;;2005-09-21;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1122/
+GHDB;;Various Online Devices;;2005-09-16;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1116/
+GHDB;;Various Online Devices;;2005-09-06;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1080/
+GHDB;;Various Online Devices;;2005-08-27;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1071/
+GHDB;;Various Online Devices;;2005-08-17;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1069/
+GHDB;;Various Online Devices;;2005-08-12;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1065/
+GHDB;;Various Online Devices;;2005-08-07;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1058/
+GHDB;;Various Online Devices;;2005-08-07;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1050/
+GHDB;;Various Online Devices;;2005-08-07;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1049/
+GHDB;;Various Online Devices;;2005-07-22;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1041/
+GHDB;;Various Online Devices;;2005-07-22;;intitle:"Java Applet Page" inurl:ml;;http://www.exploit-db.com/ghdb/1040/
+GHDB;;Various Online Devices;;2005-07-22;;intitle:"Veo Observer Web Client";;http://www.exploit-db.com/ghdb/1037/
+GHDB;;Various Online Devices;;2005-07-22;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1036/
+GHDB;;Various Online Devices;;2005-07-22;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1035/
+GHDB;;Various Online Devices;;2005-07-07;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1029/
+GHDB;;Various Online Devices;;2005-06-10;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1019/
+GHDB;;Various Online Devices;;2005-06-08;;intitle:"GCC WebAdmin" -gcc.ru;;http://www.exploit-db.com/ghdb/1017/
+GHDB;;Various Online Devices;;2005-06-07;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1016/
+GHDB;;Various Online Devices;;2005-06-07;;printers/printman.html;;http://www.exploit-db.com/ghdb/1015/
+GHDB;;Various Online Devices;;2005-06-07;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1014/
+GHDB;;Various Online Devices;;2005-06-07;;intitle:"configuration" inurl:port_0;;http://www.exploit-db.com/ghdb/1013/
+GHDB;;Various Online Devices;;2005-06-08;;inurl:"CgiStart?page=";;http://www.exploit-db.com/ghdb/1008/
+GHDB;;Various Online Devices;;2005-06-07;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/1005/
+GHDB;;Various Online Devices;;2005-06-01;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/997/
+GHDB;;Various Online Devices;;2005-06-03;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/994/
+GHDB;;Various Online Devices;;2005-05-20;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/990/
+GHDB;;Various Online Devices;;2005-05-19;;intitle:"PacketShaper Customer Login";;http://www.exploit-db.com/ghdb/989/
+GHDB;;Various Online Devices;;2005-05-31;;intitle:"Dell *" inurl:port_0;;http://www.exploit-db.com/ghdb/987/
+GHDB;;Various Online Devices;;2005-05-20;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/985/
+GHDB;;Various Online Devices;;2005-05-14;;inurl:start.htm?scrw=;;http://www.exploit-db.com/ghdb/981/
+GHDB;;Various Online Devices;;2005-05-14;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/980/
+GHDB;;Various Online Devices;;2005-05-14;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/979/
+GHDB;;Various Online Devices;;2005-05-20;;intitle:"InterJak Web Manager";;http://www.exploit-db.com/ghdb/973/
+GHDB;;Various Online Devices;;2005-05-02;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/972/
+GHDB;;Various Online Devices;;2005-05-02;;inurl:"port_255" -htm;;http://www.exploit-db.com/ghdb/971/
+GHDB;;Various Online Devices;;2005-05-02;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/969/
+GHDB;;Various Online Devices;;2005-05-02;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/954/
+GHDB;;Various Online Devices;;2005-04-27;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/950/
+GHDB;;Various Online Devices;;2005-04-20;;intitle:"NeroNET - burning online";;http://www.exploit-db.com/ghdb/942/
+GHDB;;Various Online Devices;;2005-04-11;;Winamp Web Interface;;http://www.exploit-db.com/ghdb/939/
+GHDB;;Various Online Devices;;2005-04-16;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/933/
+GHDB;;Various Online Devices;;2005-04-12;;inurl:JPGLogin.htm;;http://www.exploit-db.com/ghdb/931/
+GHDB;;Various Online Devices;;2005-04-16;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/930/
+GHDB;;Various Online Devices;;2005-04-12;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/929/
+GHDB;;Various Online Devices;;2005-04-12;;inurl:/en/help.cgi "ID=*";;http://www.exploit-db.com/ghdb/928/
+GHDB;;Various Online Devices;;2005-04-12;;intitle:"Lexmark *" inurl:port_0;;http://www.exploit-db.com/ghdb/927/
+GHDB;;Various Online Devices;;2005-04-12;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/925/
+GHDB;;Various Online Devices;;2005-03-20;;"Webthru User Login";;http://www.exploit-db.com/ghdb/909/
+GHDB;;Various Online Devices;;2005-03-20;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/905/
+GHDB;;Various Online Devices;;2005-03-20;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/904/
+GHDB;;Various Online Devices;;2005-03-20;;intitle:"Service Managed Gateway Login";;http://www.exploit-db.com/ghdb/901/
+GHDB;;Various Online Devices;;2005-03-20;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/898/
+GHDB;;Various Online Devices;;2005-03-20;;intitle:asterisk.management.portal web-access;;http://www.exploit-db.com/ghdb/897/
+GHDB;;Various Online Devices;;2005-03-18;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/892/
+GHDB;;Various Online Devices;;2005-02-15;;intitle:"active webcam page";;http://www.exploit-db.com/ghdb/886/
+GHDB;;Various Online Devices;;2005-03-04;;intitle:"Dell Laser Printer" ews;;http://www.exploit-db.com/ghdb/884/
+GHDB;;Various Online Devices;;2005-03-05;;allintitle:Brains, Corp. camera;;http://www.exploit-db.com/ghdb/877/
+GHDB;;Various Online Devices;;2005-03-05;;inurl:camctrl.cgi;;http://www.exploit-db.com/ghdb/876/
+GHDB;;Various Online Devices;;2005-02-12;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/874/
+GHDB;;Various Online Devices;;2005-02-22;;intitle:"supervisioncam protocol";;http://www.exploit-db.com/ghdb/871/
+GHDB;;Various Online Devices;;2005-02-15;;intitle:Linksys site:ourlinksys.com;;http://www.exploit-db.com/ghdb/870/
+GHDB;;Various Online Devices;;2005-02-15;;intitle:"DEFAULT_CONFIG - HP";;http://www.exploit-db.com/ghdb/867/
+GHDB;;Various Online Devices;;2005-02-15;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/862/
+GHDB;;Various Online Devices;;2005-02-04;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/856/
+GHDB;;Various Online Devices;;2005-02-02;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/854/
+GHDB;;Various Online Devices;;2005-02-01;;inurl:na_admin;;http://www.exploit-db.com/ghdb/853/
+GHDB;;Various Online Devices;;2005-01-28;;intitle:"EpsonNet WebAssist Rev";;http://www.exploit-db.com/ghdb/851/
+GHDB;;Various Online Devices;;2005-01-27;;intitle:"EverFocus.EDSR.applet";;http://www.exploit-db.com/ghdb/845/
+GHDB;;Various Online Devices;;2005-01-27;;inurl:"8003/Display?what=";;http://www.exploit-db.com/ghdb/844/
+GHDB;;Various Online Devices;;2005-01-27;;allinurl:index.htm?cus?audio;;http://www.exploit-db.com/ghdb/837/
+GHDB;;Various Online Devices;;2005-01-21;;intitle:"Browser Launch Page";;http://www.exploit-db.com/ghdb/828/
+GHDB;;Various Online Devices;;2005-01-12;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/816/
+GHDB;;Various Online Devices;;2005-01-12;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/815/
+GHDB;;Various Online Devices;;2005-01-10;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/813/
+GHDB;;Various Online Devices;;2005-01-11;;filetype:cgi transcoder.cgi;;http://www.exploit-db.com/ghdb/812/
+GHDB;;Various Online Devices;;2004-12-30;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/805/
+GHDB;;Various Online Devices;;2005-01-08;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/803/
+GHDB;;Various Online Devices;;2004-12-30;;intitle:"Sipura.SPA.Configuration" -.pdf;;http://www.exploit-db.com/ghdb/797/
+GHDB;;Various Online Devices;;2004-12-08;;;;http://www.exploit-db.com/ghdb/791/
+GHDB;;Various Online Devices;;2004-12-19;;intitle:"Cayman-DSL.home";;http://www.exploit-db.com/ghdb/781/
+GHDB;;Various Online Devices;;2004-12-13;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/769/
+GHDB;;Various Online Devices;;2004-12-13;;intitle:"iVISTA.Main.Page";;http://www.exploit-db.com/ghdb/767/
+GHDB;;Various Online Devices;;2004-12-13;;inurl:":631/printers" -php -demo;;http://www.exploit-db.com/ghdb/765/
+GHDB;;Various Online Devices;;2004-12-06;;intitle:"AudioReQuest.web.server";;http://www.exploit-db.com/ghdb/757/
+GHDB;;Various Online Devices;;2004-12-06;;intitle:"V-Gear BEE";;http://www.exploit-db.com/ghdb/756/
+GHDB;;Various Online Devices;;2004-12-06;;intitle:"Live NetSnap Cam-Server feed";;http://www.exploit-db.com/ghdb/755/
+GHDB;;Various Online Devices;;2004-12-04;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/748/
+GHDB;;Various Online Devices;;2004-12-03;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/746/
+GHDB;;Various Online Devices;;2004-12-03;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/745/
+GHDB;;Various Online Devices;;2004-12-03;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/744/
+GHDB;;Various Online Devices;;2004-11-30;;inurl:"ipp/pdisplay.htm";;http://www.exploit-db.com/ghdb/729/
+GHDB;;Various Online Devices;;2004-11-28;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/713/
+GHDB;;Various Online Devices;;2004-11-24;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/709/
+GHDB;;Various Online Devices;;2004-11-23;;intitle:"ipcop - main";;http://www.exploit-db.com/ghdb/708/
+GHDB;;Various Online Devices;;2004-11-18;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/691/
+GHDB;;Various Online Devices;;2004-11-16;;"Starting SiteZAP 6.0";;http://www.exploit-db.com/ghdb/683/
+GHDB;;Various Online Devices;;2004-11-16;;inurl:axis-cgi;;http://www.exploit-db.com/ghdb/681/
+GHDB;;Various Online Devices;;2004-11-09;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/674/
+GHDB;;Various Online Devices;;2004-11-13;;intext:"UAA (MSB)"  Lexmark -ext:pdf;;http://www.exploit-db.com/ghdb/670/
+GHDB;;Various Online Devices;;2004-11-13;;intext:"Ready with 10/100T Ethernet";;http://www.exploit-db.com/ghdb/669/
+GHDB;;Various Online Devices;;2004-11-07;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/656/
+GHDB;;Various Online Devices;;2004-11-06;;WebControl intitle:"AMX NetLinx";;http://www.exploit-db.com/ghdb/650/
+GHDB;;Various Online Devices;;2004-11-03;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/640/
+GHDB;;Various Online Devices;;2004-10-25;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/612/
+GHDB;;Various Online Devices;;2004-10-20;;inurl:"level/15/exec/-/show";;http://www.exploit-db.com/ghdb/603/
+GHDB;;Various Online Devices;;2004-10-19;;site:.viewnetcam.com -www.viewnetcam.com;;http://www.exploit-db.com/ghdb/590/
+GHDB;;Various Online Devices;;2004-10-19;;intitle:"DVR Web client";;http://www.exploit-db.com/ghdb/584/
+GHDB;;Various Online Devices;;2004-10-18;;inurl:TiVoConnect?Command=QueryServer;;http://www.exploit-db.com/ghdb/580/
+GHDB;;Various Online Devices;;2004-10-12;;inurl:netw_tcp.shtml;;http://www.exploit-db.com/ghdb/562/
+GHDB;;Various Online Devices;;2004-10-11;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/553/
+GHDB;;Various Online Devices;;2004-10-11;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/552/
+GHDB;;Various Online Devices;;2004-10-10;;camera linksys inurl:main.cgi;;http://www.exploit-db.com/ghdb/550/
+GHDB;;Various Online Devices;;2004-10-09;;intitle:"DEFAULT_CONFIG - HP";;http://www.exploit-db.com/ghdb/540/
+GHDB;;Various Online Devices;;2004-10-09;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/539/
+GHDB;;Various Online Devices;;2004-10-05;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/531/
+GHDB;;Various Online Devices;;2004-10-05;;intitle:webeye inurl:login.ml;;http://www.exploit-db.com/ghdb/527/
+GHDB;;Various Online Devices;;2004-10-05;;inurl:hp/device/this.LCDispatcher;;http://www.exploit-db.com/ghdb/525/
+GHDB;;Various Online Devices;;2004-09-29;;Canon ImageReady machines;;http://www.exploit-db.com/ghdb/519/
+GHDB;;Various Online Devices;;2004-09-29;;intitle:"lantronix web-manager";;http://www.exploit-db.com/ghdb/518/
+GHDB;;Various Online Devices;;2004-09-29;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/517/
+GHDB;;Various Online Devices;;2004-09-29;;Aficio 1022;;http://www.exploit-db.com/ghdb/516/
+GHDB;;Various Online Devices;;2004-09-29;;Konica Network Printer Administration;;http://www.exploit-db.com/ghdb/515/
+GHDB;;Various Online Devices;;2004-09-29;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/514/
+GHDB;;Various Online Devices;;2004-09-29;;intitle:"The AXIS 200 Home Page";;http://www.exploit-db.com/ghdb/513/
+GHDB;;Various Online Devices;;2004-09-29;;More Axis netcams !;;http://www.exploit-db.com/ghdb/512/
+GHDB;;Various Online Devices;;2004-09-10;;intitle:"dreambox web";;http://www.exploit-db.com/ghdb/474/
+GHDB;;Various Online Devices;;2004-08-05;;Phasers 4500/6250/8200/8400;;http://www.exploit-db.com/ghdb/402/
+GHDB;;Various Online Devices;;2004-07-29;;Canon Webview netcams;;http://www.exploit-db.com/ghdb/386/
+GHDB;;Various Online Devices;;2004-07-22;;Xerox PhaserÃƒâ€šÃ‚Â® 840 Color Printer;;http://www.exploit-db.com/ghdb/365/
+GHDB;;Various Online Devices;;2004-07-22;;Xerox Phaser 8200;;http://www.exploit-db.com/ghdb/364/
+GHDB;;Various Online Devices;;2004-07-22;;Xerox PhaserÃƒâ€šÃ‚Â® 740 Color Printer;;http://www.exploit-db.com/ghdb/363/
+GHDB;;Various Online Devices;;2004-07-22;;Xerox Phaser 6250;;http://www.exploit-db.com/ghdb/362/
+GHDB;;Various Online Devices;;2004-07-19;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/346/
+GHDB;;Various Online Devices;;2004-07-19;;intitle:"Live View / - AXIS";;http://www.exploit-db.com/ghdb/342/
+GHDB;;Various Online Devices;;2004-07-16;;inurl:/cgi-bin/makecgi-pro;;http://www.exploit-db.com/ghdb/338/
+GHDB;;Various Online Devices;;2004-07-10;;Panasonic WJ-NT104 netcams;;http://www.exploit-db.com/ghdb/316/
+GHDB;;Various Online Devices;;2004-07-10;;Mobotix netcams;;http://www.exploit-db.com/ghdb/315/
+GHDB;;Various Online Devices;;2004-07-10;;sony SNC-RZ20 network cameras;;http://www.exploit-db.com/ghdb/314/
+GHDB;;Various Online Devices;;2004-07-10;;seyeon FlexWATCH cameras;;http://www.exploit-db.com/ghdb/313/
+GHDB;;Various Online Devices;;2004-07-10;;sony SNC-RZ30 Network Cameras;;http://www.exploit-db.com/ghdb/312/
+GHDB;;Various Online Devices;;2004-07-10;;Panasonic Network Cameras;;http://www.exploit-db.com/ghdb/311/
+GHDB;;Various Online Devices;;2004-07-08;;intitle:"View and Configure PhaserLink";;http://www.exploit-db.com/ghdb/308/
+GHDB;;Various Online Devices;;2004-06-06;;Axis Network Cameras;;http://www.exploit-db.com/ghdb/279/

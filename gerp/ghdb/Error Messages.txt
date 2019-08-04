@@ -1,0 +1,75 @@
+GHDB;;Error Messages;;2013-04-09;;inurl:advsearch.php?module= & intext:sql syntax;;http://www.exploit-db.com/ghdb/3840/
+GHDB;;Error Messages;;2012-12-06;;intext:"Fatal error: Class 'Red_Action' not found in";;http://www.exploit-db.com/ghdb/3822/
+GHDB;;Error Messages;;2012-08-21;;"CHARACTER_SETS" "COLLATION_CHARACTER_SET_APPLICABILITY";;http://www.exploit-db.com/ghdb/3797/
+GHDB;;Error Messages;;2012-05-15;;inurl:"*.php?*=*.php" intext:"Warning: include" -inurl:.html -site:"php.net" -site:"stackoverflow.com" -inurl:"*forums*";;http://www.exploit-db.com/ghdb/3785/
+GHDB;;Error Messages;;2011-01-21;;inurl:"index.php?m=content+c=rss+catid=10";;http://www.exploit-db.com/ghdb/3676/
+GHDB;;Error Messages;;2010-12-08;;"plugins/wp-db-backup/wp-db-backup.php";;http://www.exploit-db.com/ghdb/3638/
+GHDB;;Error Messages;;2010-11-11;;allintext:"fs-admin.php";;http://www.exploit-db.com/ghdb/1433/
+GHDB;;Error Messages;;2006-06-15;;intitle:"Apache Tomcat" "Error Report";;http://www.exploit-db.com/ghdb/1368/
+GHDB;;Error Messages;;2006-04-25;;"Unable to jump to row" "on MySQL result index" "on line";;http://www.exploit-db.com/ghdb/1344/
+GHDB;;Error Messages;;2006-04-25;;"Warning: Bad arguments to (join|implode) () in" "on line" -help -forum;;http://www.exploit-db.com/ghdb/1343/
+GHDB;;Error Messages;;2006-04-25;;"Warning:" "failed to open stream: HTTP request failed" "on line";;http://www.exploit-db.com/ghdb/1342/
+GHDB;;Error Messages;;2006-04-25;;"Warning: mysql_connect(): Access denied for user: '*@*" "on line"  -help -forum;;http://www.exploit-db.com/ghdb/1341/
+GHDB;;Error Messages;;2006-04-25;;"Warning: Division by zero in" "on line" -forum;;http://www.exploit-db.com/ghdb/1339/
+GHDB;;Error Messages;;2006-03-13;;filetype:asp  + "[ODBC SQL";;http://www.exploit-db.com/ghdb/1274/
+GHDB;;Error Messages;;2005-09-25;;"Warning:" "SAFE MODE Restriction in effect." "The script whose uid is" "is not allowed to access owned by uid 0 in" "on line";;http://www.exploit-db.com/ghdb/1135/
+GHDB;;Error Messages;;2005-09-25;;"Warning: Supplied argument is not a valid File-Handle resource in";;http://www.exploit-db.com/ghdb/1133/
+GHDB;;Error Messages;;2005-08-16;;"There seems to have been a problem with the" " Please try again by clicking the Refresh button in your web browser.";;http://www.exploit-db.com/ghdb/1075/
+GHDB;;Error Messages;;2005-04-26;;intitle:"Default PLESK Page";;http://www.exploit-db.com/ghdb/946/
+GHDB;;Error Messages;;2005-04-26;;"Parse error: parse error, unexpected T_VARIABLE" "on line" filetype:php;;http://www.exploit-db.com/ghdb/943/
+GHDB;;Error Messages;;2005-04-07;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/936/
+GHDB;;Error Messages;;2005-04-05;;Netscape Application Server Error page;;http://www.exploit-db.com/ghdb/935/
+GHDB;;Error Messages;;2005-01-26;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/835/
+GHDB;;Error Messages;;2004-11-28;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/727/
+GHDB;;Error Messages;;2004-11-13;;intitle:Configuration.File inurl:softcart.exe;;http://www.exploit-db.com/ghdb/667/
+GHDB;;Error Messages;;2004-10-16;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/578/
+GHDB;;Error Messages;;2004-09-07;;snitz! forums db path error;;http://www.exploit-db.com/ghdb/460/
+GHDB;;Error Messages;;2004-08-14;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/433/
+GHDB;;Error Messages;;2004-07-26;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/381/
+GHDB;;Error Messages;;2004-07-16;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/341/
+GHDB;;Error Messages;;2004-07-16;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/334/
+GHDB;;Error Messages;;2004-07-16;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/332/
+GHDB;;Error Messages;;2004-07-14;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/331/
+GHDB;;Error Messages;;2004-07-09;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/309/
+GHDB;;Error Messages;;2004-06-24;;ht://Dig htsearch error;;http://www.exploit-db.com/ghdb/297/
+GHDB;;Error Messages;;2004-06-24;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/296/
+GHDB;;Error Messages;;2004-06-15;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/287/
+GHDB;;Error Messages;;2004-05-28;;"Invision Power Board Database Error";;http://www.exploit-db.com/ghdb/258/
+GHDB;;Error Messages;;2004-07-29;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/247/
+GHDB;;Error Messages;;2004-04-28;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/185/
+GHDB;;Error Messages;;2004-04-19;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/165/
+GHDB;;Error Messages;;2004-03-11;;warning "error on line" php sablotron;;http://www.exploit-db.com/ghdb/135/
+GHDB;;Error Messages;;2004-03-16;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/126/
+GHDB;;Error Messages;;2004-03-16;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/125/
+GHDB;;Error Messages;;2004-03-04;;"Can't connect to local" intitle:warning;;http://www.exploit-db.com/ghdb/110/
+GHDB;;Error Messages;;2004-03-04;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/106/
+GHDB;;Error Messages;;2004-03-04;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/105/
+GHDB;;Error Messages;;2004-03-04;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/101/
+GHDB;;Error Messages;;2004-08-25;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/97/
+GHDB;;Error Messages;;2004-03-04;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/93/
+GHDB;;Error Messages;;2004-03-04;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/92/
+GHDB;;Error Messages;;2004-03-04;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/91/
+GHDB;;Error Messages;;2004-03-04;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/90/
+GHDB;;Error Messages;;2004-03-04;;"Syntax error in query expression " -the;;http://www.exploit-db.com/ghdb/89/
+GHDB;;Error Messages;;2004-03-04;;supplied argument is not a valid PostgreSQL result;;http://www.exploit-db.com/ghdb/88/
+GHDB;;Error Messages;;2004-03-04;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/87/
+GHDB;;Error Messages;;2004-03-04;;"Incorrect syntax near";;http://www.exploit-db.com/ghdb/86/
+GHDB;;Error Messages;;2004-03-04;;"Incorrect syntax near";;http://www.exploit-db.com/ghdb/85/
+GHDB;;Error Messages;;2004-03-04;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/84/
+GHDB;;Error Messages;;2004-03-04;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/83/
+GHDB;;Error Messages;;2004-03-04;;ORA-00921: unexpected end of SQL command;;http://www.exploit-db.com/ghdb/82/
+GHDB;;Error Messages;;2004-03-04;;ORA-00936: missing expression;;http://www.exploit-db.com/ghdb/81/
+GHDB;;Error Messages;;2004-03-04;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/80/
+GHDB;;Error Messages;;2004-03-04;;sQL syntax error;;http://www.exploit-db.com/ghdb/79/
+GHDB;;Error Messages;;2004-03-04;;mysql error with query;;http://www.exploit-db.com/ghdb/78/
+GHDB;;Error Messages;;2004-03-04;;Internal Server Error;;http://www.exploit-db.com/ghdb/77/
+GHDB;;Error Messages;;2004-03-04;;IIS web server error messages;;http://www.exploit-db.com/ghdb/68/
+GHDB;;Error Messages;;2004-03-04;;Windows 2000 web server error messages;;http://www.exploit-db.com/ghdb/67/
+GHDB;;Error Messages;;2004-03-04;;IIS 4.0 error messages;;http://www.exploit-db.com/ghdb/66/
+GHDB;;Error Messages;;2004-03-04;;sitebuilderpictures;;http://www.exploit-db.com/ghdb/61/
+GHDB;;Error Messages;;2004-03-04;;sitebuilderfiles;;http://www.exploit-db.com/ghdb/60/
+GHDB;;Error Messages;;2004-03-04;;sitebuildercontent;;http://www.exploit-db.com/ghdb/59/
+GHDB;;Error Messages;;2004-01-09;;ORA-00921: unexpected end of SQL command;;http://www.exploit-db.com/ghdb/57/
+GHDB;;Error Messages;;2003-08-15;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/53/
+GHDB;;Error Messages;;2003-06-24;;"[SQL Server Driver][SQL Server]Line 1: Incorrect syntax near" -forum -thread -showthread;;http://www.exploit-db.com/ghdb/29/
+GHDB;;Error Messages;;2003-06-24;;Coldfusion Error Pages;;http://www.exploit-db.com/ghdb/5/

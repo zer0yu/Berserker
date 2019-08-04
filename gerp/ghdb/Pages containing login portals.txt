@@ -1,0 +1,271 @@
+GHDB;;Pages containing login portals;;2013-08-08;;inurl:phpmyadmin/index.php & (intext:username & password & "Welcome to");;http://www.exploit-db.com/ghdb/3881/
+GHDB;;Pages containing login portals;;2013-08-08;;intitle:"::: Login :::" & intext:"Customer Login" & "Any time & Any where";;http://www.exploit-db.com/ghdb/3880/
+GHDB;;Pages containing login portals;;2013-08-08;;inurl:8080 intitle:"login" intext:"UserLogin" "English";;http://www.exploit-db.com/ghdb/3879/
+GHDB;;Pages containing login portals;;2013-08-08;;intitle:"WebMail | Powered by Winmail Server - Login" & (intext:"Username" & intext:"Password");;http://www.exploit-db.com/ghdb/3878/
+GHDB;;Pages containing login portals;;2013-08-08;;intitle:"Login - OTRS" inurl:pl;;http://www.exploit-db.com/ghdb/3877/
+GHDB;;Pages containing login portals;;2013-08-08;;inurl:"/secure/login.aspx";;http://www.exploit-db.com/ghdb/3870/
+GHDB;;Pages containing login portals;;2013-08-08;;intext:"I'm using a public or shared computer" & intext:"Remote Web Workplace";;http://www.exploit-db.com/ghdb/3869/
+GHDB;;Pages containing login portals;;2013-08-08;;intitle:".:: Welcome to the Web-Based Configurator::." & intext:"Welcome to your router Configuration Interface";;http://www.exploit-db.com/ghdb/3868/
+GHDB;;Pages containing login portals;;2013-08-08;;intitle:"Internet Security Appliance" & intext:"Enter Password and click Login";;http://www.exploit-db.com/ghdb/3866/
+GHDB;;Pages containing login portals;;2013-08-08;;inurl:5000/webman/index.cgi;;http://www.exploit-db.com/ghdb/3864/
+GHDB;;Pages containing login portals;;2013-08-08;;"Welcome to phpMyAdmin" + "Username:" + "Password:" + "Language:" + "Afrikaans";;http://www.exploit-db.com/ghdb/3861/
+GHDB;;Pages containing login portals;;2013-08-08;;inurl:/secure/Dashboard.jspa intitle:"System Dashboard";;http://www.exploit-db.com/ghdb/3860/
+GHDB;;Pages containing login portals;;2013-08-08;;intitle:"Cisco Integrated Management Controller Login";;http://www.exploit-db.com/ghdb/3859/
+GHDB;;Pages containing login portals;;2013-08-08;;inurl:"dasdec/dasdec.csp";;http://www.exploit-db.com/ghdb/3855/
+GHDB;;Pages containing login portals;;2013-08-08;;intitle:"VNC Viewer for Java";;http://www.exploit-db.com/ghdb/3853/
+GHDB;;Pages containing login portals;;2013-04-22;;Serv-U (c) Copyright 1995-2013 Rhino Software, Inc. All Rights.Reserved.;;http://www.exploit-db.com/ghdb/3850/
+GHDB;;Pages containing login portals;;2013-04-09;;intext:Computer Misuse Act inurl:login.aspx;;http://www.exploit-db.com/ghdb/3843/
+GHDB;;Pages containing login portals;;2013-04-09;;intext:YOU ARE ACCESSING A GOVERNMENT INFORMATION SYSTEM inurl:login.aspx;;http://www.exploit-db.com/ghdb/3842/
+GHDB;;Pages containing login portals;;2013-04-09;;intext:THIS IS A PRIVATE SYSTEM AUTHORISED ACCESS ONLY inurl:login.aspx;;http://www.exploit-db.com/ghdb/3841/
+GHDB;;Pages containing login portals;;2013-04-09;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/3835/
+GHDB;;Pages containing login portals;;2013-02-05;;site:login.*.*;;http://www.exploit-db.com/ghdb/3829/
+GHDB;;Pages containing login portals;;2012-12-31;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/3825/
+GHDB;;Pages containing login portals;;2012-11-02;;inurl:phpliteadmin.php;;http://www.exploit-db.com/ghdb/3819/
+GHDB;;Pages containing login portals;;2012-11-02;;inurl:"InfoViewApp/logon.jsp";;http://www.exploit-db.com/ghdb/3818/
+GHDB;;Pages containing login portals;;2012-08-21;;intitle:"DVR+Web+Client";;http://www.exploit-db.com/ghdb/3798/
+GHDB;;Pages containing login portals;;2012-08-21;;Please-logon "intitle:zarafa webaccess ";;http://www.exploit-db.com/ghdb/3796/
+GHDB;;Pages containing login portals;;2012-08-21;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/3795/
+GHDB;;Pages containing login portals;;2012-08-21;;inurl:/app_dev.php/login "Environment";;http://www.exploit-db.com/ghdb/3792/
+GHDB;;Pages containing login portals;;2012-08-21;;inurl:"cgi-bin/webcgi/main";;http://www.exploit-db.com/ghdb/3788/
+GHDB;;Pages containing login portals;;2012-05-15;;"mailing list memberships reminder";;http://www.exploit-db.com/ghdb/3782/
+GHDB;;Pages containing login portals;;2012-05-15;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/3778/
+GHDB;;Pages containing login portals;;2011-05-11;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/3720/
+GHDB;;Pages containing login portals;;2011-05-11;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/3719/
+GHDB;;Pages containing login portals;;2011-05-11;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/3718/
+GHDB;;Pages containing login portals;;2011-03-15;;intitle:"cascade server" inurl:login.act;;http://www.exploit-db.com/ghdb/3699/
+GHDB;;Pages containing login portals;;2010-11-13;;inurl:src/login.php;;http://www.exploit-db.com/ghdb/1438/
+GHDB;;Pages containing login portals;;2010-11-12;;inurl:/dana-na/auth/;;http://www.exploit-db.com/ghdb/1435/
+GHDB;;Pages containing login portals;;2010-11-10;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1431/
+GHDB;;Pages containing login portals;;2010-11-10;;||Powered by [ClipBucket 2.0.91];;http://www.exploit-db.com/ghdb/1425/
+GHDB;;Pages containing login portals;;2006-10-02;;intitle:ARI "Phone System Administrator";;http://www.exploit-db.com/ghdb/1423/
+GHDB;;Pages containing login portals;;2006-10-02;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1416/
+GHDB;;Pages containing login portals;;2006-09-20;;inurl:"/?pagename=CustomerLogin";;http://www.exploit-db.com/ghdb/1414/
+GHDB;;Pages containing login portals;;2006-09-20;;inurl:"/?pagename=AdministratorLogin";;http://www.exploit-db.com/ghdb/1413/
+GHDB;;Pages containing login portals;;2006-09-27;;inurl:+:8443/login.php3;;http://www.exploit-db.com/ghdb/1409/
+GHDB;;Pages containing login portals;;2006-08-03;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1402/
+GHDB;;Pages containing login portals;;2006-08-03;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1401/
+GHDB;;Pages containing login portals;;2006-08-03;;"SurgeMAIL" inurl:/cgi/user.cgi ext:cgi;;http://www.exploit-db.com/ghdb/1400/
+GHDB;;Pages containing login portals;;2006-06-29;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1396/
+GHDB;;Pages containing login portals;;2006-07-29;;FlashChat v4.5.7;;http://www.exploit-db.com/ghdb/1390/
+GHDB;;Pages containing login portals;;2006-05-03;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1367/
+GHDB;;Pages containing login portals;;2006-05-03;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1366/
+GHDB;;Pages containing login portals;;2006-05-03;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1364/
+GHDB;;Pages containing login portals;;2006-05-03;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1362/
+GHDB;;Pages containing login portals;;2006-05-03;;intitle:IMP inurl:imp/index.php3;;http://www.exploit-db.com/ghdb/1360/
+GHDB;;Pages containing login portals;;2006-05-03;;intitle:"TWIG Login";;http://www.exploit-db.com/ghdb/1359/
+GHDB;;Pages containing login portals;;2006-05-03;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1358/
+GHDB;;Pages containing login portals;;2006-05-03;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1357/
+GHDB;;Pages containing login portals;;2006-05-03;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1356/
+GHDB;;Pages containing login portals;;2006-05-03;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1354/
+GHDB;;Pages containing login portals;;2006-05-03;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1353/
+GHDB;;Pages containing login portals;;2006-05-03;;intitle:"Employee Intranet Login";;http://www.exploit-db.com/ghdb/1351/
+GHDB;;Pages containing login portals;;2006-05-03;;inurl:"php121login.php";;http://www.exploit-db.com/ghdb/1349/
+GHDB;;Pages containing login portals;;2006-04-25;;Please enter a valid password! inurl:polladmin;;http://www.exploit-db.com/ghdb/1338/
+GHDB;;Pages containing login portals;;2006-03-21;;intitle:"EZPartner" -netpond;;http://www.exploit-db.com/ghdb/1296/
+GHDB;;Pages containing login portals;;2006-03-21;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1294/
+GHDB;;Pages containing login portals;;2006-03-21;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1293/
+GHDB;;Pages containing login portals;;2006-03-21;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1289/
+GHDB;;Pages containing login portals;;2006-03-21;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1288/
+GHDB;;Pages containing login portals;;2006-03-07;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1271/
+GHDB;;Pages containing login portals;;2006-02-09;;inurl:ids5web;;http://www.exploit-db.com/ghdb/1267/
+GHDB;;Pages containing login portals;;2006-02-08;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1259/
+GHDB;;Pages containing login portals;;2006-01-16;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1253/
+GHDB;;Pages containing login portals;;2006-01-16;;intitle:Ovislink inurl:private/login;;http://www.exploit-db.com/ghdb/1247/
+GHDB;;Pages containing login portals;;2006-01-14;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1246/
+GHDB;;Pages containing login portals;;2006-01-02;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1237/
+GHDB;;Pages containing login portals;;2005-12-31;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1229/
+GHDB;;Pages containing login portals;;2005-12-19;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1225/
+GHDB;;Pages containing login portals;;2005-12-19;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1224/
+GHDB;;Pages containing login portals;;2005-12-19;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1223/
+GHDB;;Pages containing login portals;;2005-11-21;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1200/
+GHDB;;Pages containing login portals;;2005-11-16;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1193/
+GHDB;;Pages containing login portals;;2005-11-16;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1191/
+GHDB;;Pages containing login portals;;2005-11-16;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1190/
+GHDB;;Pages containing login portals;;2005-11-16;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1188/
+GHDB;;Pages containing login portals;;2005-11-13;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1187/
+GHDB;;Pages containing login portals;;2005-11-12;;"iCONECT 4.1 :: Login";;http://www.exploit-db.com/ghdb/1186/
+GHDB;;Pages containing login portals;;2005-11-12;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1185/
+GHDB;;Pages containing login portals;;2005-11-12;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1184/
+GHDB;;Pages containing login portals;;2005-11-12;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1183/
+GHDB;;Pages containing login portals;;2005-11-12;;intitle:"EXTRANET * - Identification";;http://www.exploit-db.com/ghdb/1182/
+GHDB;;Pages containing login portals;;2005-11-12;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1181/
+GHDB;;Pages containing login portals;;2005-10-26;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1170/
+GHDB;;Pages containing login portals;;2005-10-13;;inurl:ocw_login_username;;http://www.exploit-db.com/ghdb/1166/
+GHDB;;Pages containing login portals;;2005-09-26;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1150/
+GHDB;;Pages containing login portals;;2005-09-25;;intitle:"iDevAffiliate - admin" -demo;;http://www.exploit-db.com/ghdb/1145/
+GHDB;;Pages containing login portals;;2005-09-25;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1143/
+GHDB;;Pages containing login portals;;2005-09-25;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1136/
+GHDB;;Pages containing login portals;;2005-09-23;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1129/
+GHDB;;Pages containing login portals;;2005-09-23;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1128/
+GHDB;;Pages containing login portals;;2005-09-23;;intitle:"i-secure v1.1" -edu;;http://www.exploit-db.com/ghdb/1127/
+GHDB;;Pages containing login portals;;2005-09-23;;inurl:/modcp/ intext:Moderator+vBulletin;;http://www.exploit-db.com/ghdb/1126/
+GHDB;;Pages containing login portals;;2005-09-21;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1121/
+GHDB;;Pages containing login portals;;2005-09-13;;"login prompt" inurl:GM.cgi;;http://www.exploit-db.com/ghdb/1109/
+GHDB;;Pages containing login portals;;2005-09-13;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1108/
+GHDB;;Pages containing login portals;;2005-09-13;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1104/
+GHDB;;Pages containing login portals;;2005-09-13;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1102/
+GHDB;;Pages containing login portals;;2005-08-30;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1089/
+GHDB;;Pages containing login portals;;2005-08-30;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1088/
+GHDB;;Pages containing login portals;;2005-08-30;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1086/
+GHDB;;Pages containing login portals;;2005-08-30;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1085/
+GHDB;;Pages containing login portals;;2005-08-30;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1081/
+GHDB;;Pages containing login portals;;2005-08-28;;inurl:csCreatePro.cgi;;http://www.exploit-db.com/ghdb/1076/
+GHDB;;Pages containing login portals;;2005-08-14;;intitle:"xams 0.0.0..15 - Login";;http://www.exploit-db.com/ghdb/1073/
+GHDB;;Pages containing login portals;;2005-08-14;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1070/
+GHDB;;Pages containing login portals;;2005-08-15;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1068/
+GHDB;;Pages containing login portals;;2005-08-11;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1067/
+GHDB;;Pages containing login portals;;2005-08-15;;intitle:"AlternC Desktop";;http://www.exploit-db.com/ghdb/1066/
+GHDB;;Pages containing login portals;;2005-08-10;;intitle:phpnews.login;;http://www.exploit-db.com/ghdb/1062/
+GHDB;;Pages containing login portals;;2005-08-08;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1059/
+GHDB;;Pages containing login portals;;2005-07-26;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1046/
+GHDB;;Pages containing login portals;;2005-07-24;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1043/
+GHDB;;Pages containing login portals;;2005-07-24;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1042/
+GHDB;;Pages containing login portals;;2005-07-22;;intitle:"Welcome to Mailtraq WebMail";;http://www.exploit-db.com/ghdb/1039/
+GHDB;;Pages containing login portals;;2005-07-22;;intitle:"TOPdesk ApplicationServer";;http://www.exploit-db.com/ghdb/1038/
+GHDB;;Pages containing login portals;;2005-07-20;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1032/
+GHDB;;Pages containing login portals;;2005-06-09;;inurl:textpattern/index.php;;http://www.exploit-db.com/ghdb/1028/
+GHDB;;Pages containing login portals;;2005-06-24;;intitle:"Login to Cacti";;http://www.exploit-db.com/ghdb/1026/
+GHDB;;Pages containing login portals;;2005-06-09;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1018/
+GHDB;;Pages containing login portals;;2005-06-05;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/1011/
+GHDB;;Pages containing login portals;;2005-06-07;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/999/
+GHDB;;Pages containing login portals;;2005-06-02;;allintitle:"Welcome to the Cyclades";;http://www.exploit-db.com/ghdb/998/
+GHDB;;Pages containing login portals;;2005-06-06;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/995/
+GHDB;;Pages containing login portals;;2005-05-23;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/993/
+GHDB;;Pages containing login portals;;2005-05-15;;inurl:exchweb/bin/auth/owalogon.asp;;http://www.exploit-db.com/ghdb/992/
+GHDB;;Pages containing login portals;;2005-05-15;;inurl:Citrix/MetaFrame/default/default.aspx;;http://www.exploit-db.com/ghdb/991/
+GHDB;;Pages containing login portals;;2005-05-11;;inurl::2082/frontend -demo;;http://www.exploit-db.com/ghdb/977/
+GHDB;;Pages containing login portals;;2005-05-02;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/968/
+GHDB;;Pages containing login portals;;2005-05-02;;intitle:open-xchange inurl:login.pl;;http://www.exploit-db.com/ghdb/966/
+GHDB;;Pages containing login portals;;2005-05-02;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/964/
+GHDB;;Pages containing login portals;;2005-05-02;;inurl:gnatsweb.pl;;http://www.exploit-db.com/ghdb/963/
+GHDB;;Pages containing login portals;;2005-05-02;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/962/
+GHDB;;Pages containing login portals;;2005-04-27;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/951/
+GHDB;;Pages containing login portals;;2005-04-27;;intitle:"Zope Help System" inurl:HelpSys;;http://www.exploit-db.com/ghdb/948/
+GHDB;;Pages containing login portals;;2005-04-17;;intitle:ilohamail "Powered by IlohaMail";;http://www.exploit-db.com/ghdb/941/
+GHDB;;Pages containing login portals;;2005-04-11;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/940/
+GHDB;;Pages containing login portals;;2005-04-11;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/938/
+GHDB;;Pages containing login portals;;2005-04-09;;intext:&quot;vbulletin&quot; inurl:admincp;;http://www.exploit-db.com/ghdb/937/
+GHDB;;Pages containing login portals;;2005-03-31;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/924/
+GHDB;;Pages containing login portals;;2005-03-31;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/920/
+GHDB;;Pages containing login portals;;2005-03-29;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/917/
+GHDB;;Pages containing login portals;;2005-03-29;;intitle:asterisk.management.portal web-access;;http://www.exploit-db.com/ghdb/915/
+GHDB;;Pages containing login portals;;2005-03-20;;intitle:"ListMail Login" admin -demo;;http://www.exploit-db.com/ghdb/911/
+GHDB;;Pages containing login portals;;2005-03-20;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/910/
+GHDB;;Pages containing login portals;;2005-03-20;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/907/
+GHDB;;Pages containing login portals;;2005-03-20;;inurl:webmail./index.pl "Interface";;http://www.exploit-db.com/ghdb/903/
+GHDB;;Pages containing login portals;;2005-03-20;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/902/
+GHDB;;Pages containing login portals;;2005-02-24;;allinurl:wps/portal/ login;;http://www.exploit-db.com/ghdb/896/
+GHDB;;Pages containing login portals;;2005-02-20;;inurl:"suse/login.pl";;http://www.exploit-db.com/ghdb/891/
+GHDB;;Pages containing login portals;;2005-03-12;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/890/
+GHDB;;Pages containing login portals;;2005-03-15;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/885/
+GHDB;;Pages containing login portals;;2005-03-05;;inurl:WCP_USER;;http://www.exploit-db.com/ghdb/883/
+GHDB;;Pages containing login portals;;2005-02-15;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/869/
+GHDB;;Pages containing login portals;;2005-02-15;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/861/
+GHDB;;Pages containing login portals;;2005-02-03;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/855/
+GHDB;;Pages containing login portals;;2005-01-27;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/843/
+GHDB;;Pages containing login portals;;2005-01-27;;inurl:orasso.wwsso_app_admin.ls_login;;http://www.exploit-db.com/ghdb/841/
+GHDB;;Pages containing login portals;;2005-01-27;;intitle:"ePowerSwitch Login";;http://www.exploit-db.com/ghdb/839/
+GHDB;;Pages containing login portals;;2005-01-25;;inurl:"usysinfo?login=true";;http://www.exploit-db.com/ghdb/832/
+GHDB;;Pages containing login portals;;2005-01-24;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/829/
+GHDB;;Pages containing login portals;;2005-01-13;;PhotoPost PHP Upload;;http://www.exploit-db.com/ghdb/825/
+GHDB;;Pages containing login portals;;2005-01-13;;PHPhotoalbum Statistics;;http://www.exploit-db.com/ghdb/824/
+GHDB;;Pages containing login portals;;2005-01-13;;PHPhotoalbum Upload;;http://www.exploit-db.com/ghdb/823/
+GHDB;;Pages containing login portals;;2005-01-18;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/822/
+GHDB;;Pages containing login portals;;2005-01-15;;intitle:"VNC viewer for Java";;http://www.exploit-db.com/ghdb/820/
+GHDB;;Pages containing login portals;;2005-01-15;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/818/
+GHDB;;Pages containing login portals;;2005-01-15;;"pcANYWHERE EXPRESS Java Client";;http://www.exploit-db.com/ghdb/817/
+GHDB;;Pages containing login portals;;2004-12-19;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/788/
+GHDB;;Pages containing login portals;;2004-12-19;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/787/
+GHDB;;Pages containing login portals;;2004-12-19;;intitle:"Athens Authentication Point";;http://www.exploit-db.com/ghdb/783/
+GHDB;;Pages containing login portals;;2004-12-19;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/779/
+GHDB;;Pages containing login portals;;2004-12-19;;inurl:1810 "Oracle Enterprise Manager";;http://www.exploit-db.com/ghdb/777/
+GHDB;;Pages containing login portals;;2004-12-19;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/774/
+GHDB;;Pages containing login portals;;2004-12-19;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/772/
+GHDB;;Pages containing login portals;;2004-12-10;;inurl:"1220/parse_xml.cgi?";;http://www.exploit-db.com/ghdb/771/
+GHDB;;Pages containing login portals;;2004-12-13;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/762/
+GHDB;;Pages containing login portals;;2004-12-07;;intitle:"VitalQIP IP Management System";;http://www.exploit-db.com/ghdb/760/
+GHDB;;Pages containing login portals;;2004-11-30;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/733/
+GHDB;;Pages containing login portals;;2004-11-28;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/722/
+GHDB;;Pages containing login portals;;2004-11-28;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/711/
+GHDB;;Pages containing login portals;;2004-11-18;;inurl:/webedit.* intext:WebEdit Professional -html;;http://www.exploit-db.com/ghdb/695/
+GHDB;;Pages containing login portals;;2005-03-03;;intitle:"phpPgAdmin - Login" Language;;http://www.exploit-db.com/ghdb/684/
+GHDB;;Pages containing login portals;;2004-11-16;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/679/
+GHDB;;Pages containing login portals;;2004-11-07;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/661/
+GHDB;;Pages containing login portals;;2004-11-04;;inurl:irc filetype:cgi cgi:irc;;http://www.exploit-db.com/ghdb/641/
+GHDB;;Pages containing login portals;;2004-10-31;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/638/
+GHDB;;Pages containing login portals;;2004-10-31;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/635/
+GHDB;;Pages containing login portals;;2004-10-20;;inurl:login.php "SquirrelMail version";;http://www.exploit-db.com/ghdb/608/
+GHDB;;Pages containing login portals;;2004-10-20;;inurl:/dana-na/auth/welcome.html;;http://www.exploit-db.com/ghdb/604/
+GHDB;;Pages containing login portals;;2004-10-20;;intitle:plesk inurl:login.php3;;http://www.exploit-db.com/ghdb/602/
+GHDB;;Pages containing login portals;;2004-10-19;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/601/
+GHDB;;Pages containing login portals;;2004-10-19;;"Login - Sun Cobalt RaQ";;http://www.exploit-db.com/ghdb/600/
+GHDB;;Pages containing login portals;;2004-10-19;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/599/
+GHDB;;Pages containing login portals;;2004-10-19;;"SysCP - login";;http://www.exploit-db.com/ghdb/598/
+GHDB;;Pages containing login portals;;2004-10-19;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/597/
+GHDB;;Pages containing login portals;;2004-10-19;;"VHCS Pro   ver" -demo;;http://www.exploit-db.com/ghdb/596/
+GHDB;;Pages containing login portals;;2004-10-19;;inurl:confixx inurl:login|anmeldung;;http://www.exploit-db.com/ghdb/595/
+GHDB;;Pages containing login portals;;2004-10-06;;inurl:"calendar.asp?action=login";;http://www.exploit-db.com/ghdb/593/
+GHDB;;Pages containing login portals;;2004-10-19;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/588/
+GHDB;;Pages containing login portals;;2004-10-16;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/574/
+GHDB;;Pages containing login portals;;2004-10-16;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/571/
+GHDB;;Pages containing login portals;;2004-10-14;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/567/
+GHDB;;Pages containing login portals;;2004-10-14;;inurl:default.asp intitle:"WebCommander";;http://www.exploit-db.com/ghdb/566/
+GHDB;;Pages containing login portals;;2004-10-11;;intitle:"MailMan Login";;http://www.exploit-db.com/ghdb/551/
+GHDB;;Pages containing login portals;;2004-10-05;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/533/
+GHDB;;Pages containing login portals;;2004-09-24;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/509/
+GHDB;;Pages containing login portals;;2004-09-23;;inurl:mewebmail;;http://www.exploit-db.com/ghdb/503/
+GHDB;;Pages containing login portals;;2005-01-13;;W-Nailer Upload Area;;http://www.exploit-db.com/ghdb/500/
+GHDB;;Pages containing login portals;;2004-09-21;;inurl:"typo3/index.php?u=" -demo;;http://www.exploit-db.com/ghdb/487/
+GHDB;;Pages containing login portals;;2004-09-21;;inurl:administrator "welcome to mambo";;http://www.exploit-db.com/ghdb/485/
+GHDB;;Pages containing login portals;;2004-09-21;;ez Publish administration;;http://www.exploit-db.com/ghdb/484/
+GHDB;;Pages containing login portals;;2004-09-18;;intitle:"Tomcat Server Administration";;http://www.exploit-db.com/ghdb/483/
+GHDB;;Pages containing login portals;;2004-09-18;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/482/
+GHDB;;Pages containing login portals;;2004-09-18;;"Login to Usermin" inurl:20000;;http://www.exploit-db.com/ghdb/478/
+GHDB;;Pages containing login portals;;2004-09-18;;intitle:"TUTOS Login";;http://www.exploit-db.com/ghdb/477/
+GHDB;;Pages containing login portals;;2004-09-10;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/473/
+GHDB;;Pages containing login portals;;2004-08-25;;4images Administration Control Panel;;http://www.exploit-db.com/ghdb/452/
+GHDB;;Pages containing login portals;;2004-08-21;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/447/
+GHDB;;Pages containing login portals;;2004-08-20;;inurl:"gs/adminlogin.aspx";;http://www.exploit-db.com/ghdb/445/
+GHDB;;Pages containing login portals;;2004-08-20;;intitle:Login * Webmailer;;http://www.exploit-db.com/ghdb/444/
+GHDB;;Pages containing login portals;;2004-08-20;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/442/
+GHDB;;Pages containing login portals;;2004-08-16;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/441/
+GHDB;;Pages containing login portals;;2004-08-16;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/437/
+GHDB;;Pages containing login portals;;2004-08-16;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/434/
+GHDB;;Pages containing login portals;;2004-08-13;;inurl:cgi-bin/ultimatebb.cgi?ubb=login;;http://www.exploit-db.com/ghdb/426/
+GHDB;;Pages containing login portals;;2004-08-13;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/422/
+GHDB;;Pages containing login portals;;2004-08-09;;Ultima Online loginservers;;http://www.exploit-db.com/ghdb/420/
+GHDB;;Pages containing login portals;;2004-08-09;;"WebSTAR Mail - Please Log In";;http://www.exploit-db.com/ghdb/419/
+GHDB;;Pages containing login portals;;2004-08-09;;intitle:"teamspeak server-administration;;http://www.exploit-db.com/ghdb/415/
+GHDB;;Pages containing login portals;;2004-08-06;;inurl:/cgi-bin/sqwebmail?noframes=1;;http://www.exploit-db.com/ghdb/412/
+GHDB;;Pages containing login portals;;2004-08-05;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/408/
+GHDB;;Pages containing login portals;;2004-08-05;;intitle:Node.List Win32.Version.3.11;;http://www.exploit-db.com/ghdb/406/
+GHDB;;Pages containing login portals;;2004-07-29;;inurl:"utilities/TreeView.asp";;http://www.exploit-db.com/ghdb/391/
+GHDB;;Pages containing login portals;;2004-07-26;;ASP.login_aspx "ASP.NET_SessionId";;http://www.exploit-db.com/ghdb/380/
+GHDB;;Pages containing login portals;;2004-07-22;;Powered by INDEXU;;http://www.exploit-db.com/ghdb/372/
+GHDB;;Pages containing login portals;;2004-07-12;;phpWebMail;;http://www.exploit-db.com/ghdb/318/
+GHDB;;Pages containing login portals;;2004-07-09;;filetype:php inurl:"webeditor.php";;http://www.exploit-db.com/ghdb/310/
+GHDB;;Pages containing login portals;;2004-06-22;;CGI:IRC Login;;http://www.exploit-db.com/ghdb/294/
+GHDB;;Pages containing login portals;;2004-06-18;;Outlook Web Access (a better way);;http://www.exploit-db.com/ghdb/291/
+GHDB;;Pages containing login portals;;2004-06-04;;"ttawlogin.cgi/?action=";;http://www.exploit-db.com/ghdb/278/
+GHDB;;Pages containing login portals;;2004-06-10;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/276/
+GHDB;;Pages containing login portals;;2004-06-04;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/270/
+GHDB;;Pages containing login portals;;2004-06-04;;filetype:r2w r2w;;http://www.exploit-db.com/ghdb/268/
+GHDB;;Pages containing login portals;;2004-05-30;;inurl:search/admin.php;;http://www.exploit-db.com/ghdb/267/
+GHDB;;Pages containing login portals;;2004-05-26;;inurl:/eprise/;;http://www.exploit-db.com/ghdb/263/
+GHDB;;Pages containing login portals;;2004-05-17;;intitle:"Dell Remote Access Controller";;http://www.exploit-db.com/ghdb/232/
+GHDB;;Pages containing login portals;;2004-05-13;;"please log in";;http://www.exploit-db.com/ghdb/229/
+GHDB;;Pages containing login portals;;2004-05-12;;inurl:login filetype:swf swf;;http://www.exploit-db.com/ghdb/223/
+GHDB;;Pages containing login portals;;2004-05-11;;inurl:"webadmin" filetype:nsf;;http://www.exploit-db.com/ghdb/219/
+GHDB;;Pages containing login portals;;2004-05-11;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/218/
+GHDB;;Pages containing login portals;;2004-05-10;;inurl:/Citrix/Nfuse17/;;http://www.exploit-db.com/ghdb/212/
+GHDB;;Pages containing login portals;;2004-05-10;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/211/
+GHDB;;Pages containing login portals;;2004-05-04;;inurl:names.nsf?opendatabase;;http://www.exploit-db.com/ghdb/204/
+GHDB;;Pages containing login portals;;2004-04-28;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/193/
+GHDB;;Pages containing login portals;;2004-04-26;;allintext: "Please login to continue..." "ZTE Corporation. All rights reserved.";;http://www.exploit-db.com/ghdb/182/
+GHDB;;Pages containing login portals;;2004-04-21;;"VNC Desktop" inurl:5800;;http://www.exploit-db.com/ghdb/176/
+GHDB;;Pages containing login portals;;2004-04-21;;inurl:/admin/login.asp;;http://www.exploit-db.com/ghdb/173/
+GHDB;;Pages containing login portals;;2004-04-21;;inurl:login.asp;;http://www.exploit-db.com/ghdb/172/
+GHDB;;Pages containing login portals;;2004-04-20;;inurl:":10000" intext:webmin;;http://www.exploit-db.com/ghdb/168/
+GHDB;;Pages containing login portals;;2004-04-19;;inurl:login.cfm;;http://www.exploit-db.com/ghdb/166/
+GHDB;;Pages containing login portals;;2004-04-19;;intitle:"ColdFusion Administrator Login";;http://www.exploit-db.com/ghdb/164/
+GHDB;;Pages containing login portals;;2004-04-16;;allinurl:"exchange/logon.asp";;http://www.exploit-db.com/ghdb/162/

@@ -1,0 +1,285 @@
+GHDB;;Files containing juicy info;;2013-08-08;;filetype:txt inurl:~~Wordpress2.txt;;http://www.exploit-db.com/ghdb/3884/
+GHDB;;Files containing juicy info;;2013-08-08;;filetype:txt inurl:wp-config.txt;;http://www.exploit-db.com/ghdb/3883/
+GHDB;;Files containing juicy info;;2013-08-08;;inurl:~~joomla3.txt filetype:txt;;http://www.exploit-db.com/ghdb/3882/
+GHDB;;Files containing juicy info;;2013-08-08;;intitle:"WAMPSERVER Homepage" & intext:"Server Configuration";;http://www.exploit-db.com/ghdb/3874/
+GHDB;;Files containing juicy info;;2013-08-08;;inurl:wp-content/uploads/dump.sql;;http://www.exploit-db.com/ghdb/3865/
+GHDB;;Files containing juicy info;;2013-08-08;;inurl:fluidgalleries/dat/login.dat;;http://www.exploit-db.com/ghdb/3863/
+GHDB;;Files containing juicy info;;2013-08-08;;"information_schema" filetype:sql;;http://www.exploit-db.com/ghdb/3856/
+GHDB;;Files containing juicy info;;2013-08-08;;inurl:"zendesk.com/attachments/token" site:zendesk.com;;http://www.exploit-db.com/ghdb/3854/
+GHDB;;Files containing juicy info;;2013-04-23;;allintext: /iissamples/default/;;http://www.exploit-db.com/ghdb/3852/
+GHDB;;Files containing juicy info;;2013-04-22;;filetype:php -site:php.net intitle:phpinfo "published by the PHP Group";;http://www.exploit-db.com/ghdb/3845/
+GHDB;;Files containing juicy info;;2013-04-22;;filetype:ini "This is the default settings file for new PHP installations";;http://www.exploit-db.com/ghdb/3844/
+GHDB;;Files containing juicy info;;2013-04-09;;inurl:"php?id=" intext:"DB_Error Object ";;http://www.exploit-db.com/ghdb/3838/
+GHDB;;Files containing juicy info;;2013-02-05;;ext:gnucash;;http://www.exploit-db.com/ghdb/3832/
+GHDB;;Files containing juicy info;;2013-02-05;;runtimevar softwareVersion=;;http://www.exploit-db.com/ghdb/3828/
+GHDB;;Files containing juicy info;;2012-12-31;;inurl:admin intext:username= AND email= AND password= OR pass= filetype:xls;;http://www.exploit-db.com/ghdb/3824/
+GHDB;;Files containing juicy info;;2012-12-06;;inurl:newsnab/www/ automated.config.php;;http://www.exploit-db.com/ghdb/3823/
+GHDB;;Files containing juicy info;;2012-11-02;;inurl:.com/configuration.php-dist;;http://www.exploit-db.com/ghdb/3809/
+GHDB;;Files containing juicy info;;2012-08-21;;filetype:avastlic;;http://www.exploit-db.com/ghdb/3794/
+GHDB;;Files containing juicy info;;2012-08-21;;filetype:docx Domain Registrar $user $pass;;http://www.exploit-db.com/ghdb/3791/
+GHDB;;Files containing juicy info;;2012-08-21;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3789/
+GHDB;;Files containing juicy info;;2012-05-15;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3783/
+GHDB;;Files containing juicy info;;2012-05-15;;?intitle:index.of?".mysql_history";;http://www.exploit-db.com/ghdb/3780/
+GHDB;;Files containing juicy info;;2012-05-15;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3777/
+GHDB;;Files containing juicy info;;2011-12-27;;allintext:D.N.I filetype:xls;;http://www.exploit-db.com/ghdb/3769/
+GHDB;;Files containing juicy info;;2011-12-19;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3765/
+GHDB;;Files containing juicy info;;2011-12-19;;Microsoft-IIS/7.0 intitle:index.of name size;;http://www.exploit-db.com/ghdb/3764/
+GHDB;;Files containing juicy info;;2011-12-16;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3763/
+GHDB;;Files containing juicy info;;2011-12-16;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3762/
+GHDB;;Files containing juicy info;;2011-11-24;;filetype:old (mysql_connect) ();;http://www.exploit-db.com/ghdb/3755/
+GHDB;;Files containing juicy info;;2011-11-24;;filetype:old (define)(DB_USER|DB_PASS|DB_NAME);;http://www.exploit-db.com/ghdb/3754/
+GHDB;;Files containing juicy info;;2011-11-19;;filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS;;http://www.exploit-db.com/ghdb/3751/
+GHDB;;Files containing juicy info;;2011-11-19;;intitle:index.of? configuration.php.zip;;http://www.exploit-db.com/ghdb/3749/
+GHDB;;Files containing juicy info;;2011-11-19;;inurl:"/includes/config.php";;http://www.exploit-db.com/ghdb/3748/
+GHDB;;Files containing juicy info;;2011-11-19;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3747/
+GHDB;;Files containing juicy info;;2011-09-26;;+intext:"AWSTATS DATA FILE" filetype:txt;;http://www.exploit-db.com/ghdb/3741/
+GHDB;;Files containing juicy info;;2011-08-25;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3739/
+GHDB;;Files containing juicy info;;2011-07-26;;filetype:pem "Microsoft";;http://www.exploit-db.com/ghdb/3736/
+GHDB;;Files containing juicy info;;2011-07-26;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3733/
+GHDB;;Files containing juicy info;;2011-07-18;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3732/
+GHDB;;Files containing juicy info;;2011-07-18;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3731/
+GHDB;;Files containing juicy info;;2011-07-18;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3730/
+GHDB;;Files containing juicy info;;2011-07-18;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3729/
+GHDB;;Files containing juicy info;;2011-07-01;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3728/
+GHDB;;Files containing juicy info;;2011-05-26;;inurl:sarg inurl:siteuser.html;;http://www.exploit-db.com/ghdb/3721/
+GHDB;;Files containing juicy info;;2011-05-03;;filetype:xls + password + inurl:.com;;http://www.exploit-db.com/ghdb/3717/
+GHDB;;Files containing juicy info;;2011-05-03;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3715/
+GHDB;;Files containing juicy info;;2011-02-24;;intext:db_pass inurl:settings.ini;;http://www.exploit-db.com/ghdb/3689/
+GHDB;;Files containing juicy info;;2011-02-19;;inurl:app/etc/local.xml;;http://www.exploit-db.com/ghdb/3686/
+GHDB;;Files containing juicy info;;2010-12-13;;allinurl:/xampp/security.php;;http://www.exploit-db.com/ghdb/3645/
+GHDB;;Files containing juicy info;;2010-12-10;;inurl:phpinfo.php;;http://www.exploit-db.com/ghdb/3641/
+GHDB;;Files containing juicy info;;2010-12-07;;inurl:"config.php.new" +vbulletin;;http://www.exploit-db.com/ghdb/3632/
+GHDB;;Files containing juicy info;;2010-12-07;;inurl:configuration.php-dist;;http://www.exploit-db.com/ghdb/3631/
+GHDB;;Files containing juicy info;;2010-11-25;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3619/
+GHDB;;Files containing juicy info;;2010-11-10;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/1428/
+GHDB;;Files containing juicy info;;2010-11-10;;filetype:reg reg HKEY_CURRENT_USER SSHHOSTKEYS ;;http://www.exploit-db.com/ghdb/1426/
+GHDB;;Files containing juicy info;;2006-10-02;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/1422/
+GHDB;;Files containing juicy info;;2006-03-21;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/1287/
+GHDB;;Files containing juicy info;;2006-03-18;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/1278/
+GHDB;;Files containing juicy info;;2006-03-18;;intitle:"Joomla - Web Installer";;http://www.exploit-db.com/ghdb/1276/
+GHDB;;Files containing juicy info;;2006-02-22;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/1265/
+GHDB;;Files containing juicy info;;2006-01-16;;intext:ViewCVS inurl:Settings.php;;http://www.exploit-db.com/ghdb/1252/
+GHDB;;Files containing juicy info;;2006-01-16;;inurl:build.err;;http://www.exploit-db.com/ghdb/1251/
+GHDB;;Files containing juicy info;;2005-12-22;;inurl:/cgi-bin/pass.txt;;http://www.exploit-db.com/ghdb/1228/
+GHDB;;Files containing juicy info;;2005-12-19;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/1226/
+GHDB;;Files containing juicy info;;2005-11-24;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/1205/
+GHDB;;Files containing juicy info;;2005-11-16;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/1195/
+GHDB;;Files containing juicy info;;2005-10-22;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/1167/
+GHDB;;Files containing juicy info;;2005-10-04;;intitle:"urchin (5|3|admin)" ext:cgi;;http://www.exploit-db.com/ghdb/1161/
+GHDB;;Files containing juicy info;;2005-09-08;;rdbqds -site:.edu -site:.mil -site:.gov;;http://www.exploit-db.com/ghdb/1097/
+GHDB;;Files containing juicy info;;2005-08-23;;contacts ext:wml;;http://www.exploit-db.com/ghdb/1079/
+GHDB;;Files containing juicy info;;2005-08-12;;intitle:"curriculum vitae" filetype:doc;;http://www.exploit-db.com/ghdb/1074/
+GHDB;;Files containing juicy info;;2005-08-16;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/1061/
+GHDB;;Files containing juicy info;;2005-07-30;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/1047/
+GHDB;;Files containing juicy info;;2005-07-24;;site:www.mailinator.com inurl:ShowMail.do;;http://www.exploit-db.com/ghdb/1044/
+GHDB;;Files containing juicy info;;2005-07-21;;allinurl:cdkey.txt;;http://www.exploit-db.com/ghdb/1034/
+GHDB;;Files containing juicy info;;2005-07-08;;filetype:PS ps;;http://www.exploit-db.com/ghdb/1031/
+GHDB;;Files containing juicy info;;2005-06-21;;filetype:QBW qbw;;http://www.exploit-db.com/ghdb/1022/
+GHDB;;Files containing juicy info;;2005-06-07;;inurl:XcCDONTS.asp;;http://www.exploit-db.com/ghdb/1006/
+GHDB;;Files containing juicy info;;2005-04-27;;ext:DCA DCA;;http://www.exploit-db.com/ghdb/958/
+GHDB;;Files containing juicy info;;2005-04-27;;ext:ccm ccm -catacomb;;http://www.exploit-db.com/ghdb/957/
+GHDB;;Files containing juicy info;;2005-04-27;;ext:CDX CDX;;http://www.exploit-db.com/ghdb/956/
+GHDB;;Files containing juicy info;;2005-04-27;;ext:DBF DBF;;http://www.exploit-db.com/ghdb/955/
+GHDB;;Files containing juicy info;;2005-04-27;;ext:jbf jbf;;http://www.exploit-db.com/ghdb/949/
+GHDB;;Files containing juicy info;;2005-04-26;;ext:plist filetype:plist inurl:bookmarks.plist;;http://www.exploit-db.com/ghdb/947/
+GHDB;;Files containing juicy info;;2005-04-26;;ext:ics ics;;http://www.exploit-db.com/ghdb/945/
+GHDB;;Files containing juicy info;;2005-04-26;;"MacHTTP" filetype:log inurl:machttp.log;;http://www.exploit-db.com/ghdb/944/
+GHDB;;Files containing juicy info;;2005-03-30;;WebLog Referrers;;http://www.exploit-db.com/ghdb/919/
+GHDB;;Files containing juicy info;;2005-02-28;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/895/
+GHDB;;Files containing juicy info;;2005-02-15;;filetype:ora tnsnames;;http://www.exploit-db.com/ghdb/888/
+GHDB;;Files containing juicy info;;2005-03-02;;inurl:getmsg.html intitle:hotmail;;http://www.exploit-db.com/ghdb/873/
+GHDB;;Files containing juicy info;;2005-02-28;;+"HSTSNR" -"netop.com";;http://www.exploit-db.com/ghdb/872/
+GHDB;;Files containing juicy info;;2005-02-15;;intitle:"web server status" SSH Telnet;;http://www.exploit-db.com/ghdb/868/
+GHDB;;Files containing juicy info;;2005-02-15;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/860/
+GHDB;;Files containing juicy info;;2005-01-27;;inurl:netscape.hst;;http://www.exploit-db.com/ghdb/849/
+GHDB;;Files containing juicy info;;2005-01-27;;inurl:"bookmark.htm";;http://www.exploit-db.com/ghdb/848/
+GHDB;;Files containing juicy info;;2005-01-27;;inurl:netscape.hst;;http://www.exploit-db.com/ghdb/847/
+GHDB;;Files containing juicy info;;2005-01-27;;inurl:netscape.ini;;http://www.exploit-db.com/ghdb/846/
+GHDB;;Files containing juicy info;;2005-01-27;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/838/
+GHDB;;Files containing juicy info;;2005-01-27;;ext:reg "username=*" putty;;http://www.exploit-db.com/ghdb/836/
+GHDB;;Files containing juicy info;;2005-01-22;;ext:txt inurl:dxdiag;;http://www.exploit-db.com/ghdb/831/
+GHDB;;Files containing juicy info;;2005-01-13;;intitle:"FTP root at";;http://www.exploit-db.com/ghdb/819/
+GHDB;;Files containing juicy info;;2005-01-02;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/811/
+GHDB;;Files containing juicy info;;2005-01-02;;Peoples MSN contact lists;;http://www.exploit-db.com/ghdb/808/
+GHDB;;Files containing juicy info;;2005-01-02;;filetype:ctt Contact;;http://www.exploit-db.com/ghdb/807/
+GHDB;;Files containing juicy info;;2004-12-30;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/796/
+GHDB;;Files containing juicy info;;2004-12-30;;filetype:blt "buddylist";;http://www.exploit-db.com/ghdb/795/
+GHDB;;Files containing juicy info;;2004-12-30;;filetype:cnf inurl:_vti_pvt access.cnf;;http://www.exploit-db.com/ghdb/792/
+GHDB;;Files containing juicy info;;2004-12-19;;intitle:"welcome.to.squeezebox";;http://www.exploit-db.com/ghdb/789/
+GHDB;;Files containing juicy info;;2004-12-19;;inurl:preferences.ini "[emule]";;http://www.exploit-db.com/ghdb/785/
+GHDB;;Files containing juicy info;;2004-12-19;;ext:conf inurl:rsyncd.conf -cvs -man;;http://www.exploit-db.com/ghdb/775/
+GHDB;;Files containing juicy info;;2004-12-13;;inurl:ds.py;;http://www.exploit-db.com/ghdb/770/
+GHDB;;Files containing juicy info;;2004-12-13;;ext:dat bpk.dat;;http://www.exploit-db.com/ghdb/766/
+GHDB;;Files containing juicy info;;2004-12-04;;intitle:"Multimon UPS status page";;http://www.exploit-db.com/ghdb/752/
+GHDB;;Files containing juicy info;;2004-12-05;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/751/
+GHDB;;Files containing juicy info;;2004-12-05;;"Generated by phpSystem";;http://www.exploit-db.com/ghdb/750/
+GHDB;;Files containing juicy info;;2004-12-04;;inurl:"/axs/ax-admin.pl" -script;;http://www.exploit-db.com/ghdb/749/
+GHDB;;Files containing juicy info;;2004-12-03;;ext:vmx vmx;;http://www.exploit-db.com/ghdb/741/
+GHDB;;Files containing juicy info;;2004-12-03;;ext:vmdk vmdk;;http://www.exploit-db.com/ghdb/740/
+GHDB;;Files containing juicy info;;2004-12-03;;ext:pqi pqi -database;;http://www.exploit-db.com/ghdb/739/
+GHDB;;Files containing juicy info;;2004-12-03;;ext:gho gho;;http://www.exploit-db.com/ghdb/738/
+GHDB;;Files containing juicy info;;2004-11-28;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/723/
+GHDB;;Files containing juicy info;;2004-11-28;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/718/
+GHDB;;Files containing juicy info;;2004-11-28;;ext:txt "Final encryption key";;http://www.exploit-db.com/ghdb/714/
+GHDB;;Files containing juicy info;;2004-11-20;;inurl:report "EVEREST Home Edition ";;http://www.exploit-db.com/ghdb/699/
+GHDB;;Files containing juicy info;;2004-11-23;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/698/
+GHDB;;Files containing juicy info;;2004-11-21;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/696/
+GHDB;;Files containing juicy info;;2004-11-18;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/693/
+GHDB;;Files containing juicy info;;2004-11-18;;filetype:myd myd -CVS;;http://www.exploit-db.com/ghdb/686/
+GHDB;;Files containing juicy info;;2004-11-16;;filetype:config web.config -CVS;;http://www.exploit-db.com/ghdb/685/
+GHDB;;Files containing juicy info;;2004-11-16;;filetype:ns1 ns1;;http://www.exploit-db.com/ghdb/682/
+GHDB;;Files containing juicy info;;2004-11-16;;ext:cgi inurl:editcgi.cgi inurl:file=;;http://www.exploit-db.com/ghdb/680/
+GHDB;;Files containing juicy info;;2004-11-12;;filetype:pst pst -from -to -date;;http://www.exploit-db.com/ghdb/666/
+GHDB;;Files containing juicy info;;2004-11-07;;inurl:"putty.reg";;http://www.exploit-db.com/ghdb/660/
+GHDB;;Files containing juicy info;;2004-11-07;;ext:conf NoCatAuth -cvs;;http://www.exploit-db.com/ghdb/659/
+GHDB;;Files containing juicy info;;2004-11-05;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/644/
+GHDB;;Files containing juicy info;;2004-11-05;;filetype:inf inurl:capolicy.inf;;http://www.exploit-db.com/ghdb/643/
+GHDB;;Files containing juicy info;;2004-10-31;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/637/
+GHDB;;Files containing juicy info;;2004-10-31;;intitle:"Web Server Statistics for ****";;http://www.exploit-db.com/ghdb/636/
+GHDB;;Files containing juicy info;;2004-10-31;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/632/
+GHDB;;Files containing juicy info;;2004-10-24;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/617/
+GHDB;;Files containing juicy info;;2004-10-20;;inurl:log.nsf -gov;;http://www.exploit-db.com/ghdb/607/
+GHDB;;Files containing juicy info;;2004-10-20;;ext:nsf nsf -gov -mil;;http://www.exploit-db.com/ghdb/605/
+GHDB;;Files containing juicy info;;2004-10-19;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/586/
+GHDB;;Files containing juicy info;;2004-10-18;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/582/
+GHDB;;Files containing juicy info;;2004-10-18;;ext:mdb inurl:*.mdb  inurl:fpdb shop.mdb;;http://www.exploit-db.com/ghdb/581/
+GHDB;;Files containing juicy info;;2004-10-16;;ext:ini intext:env.ini;;http://www.exploit-db.com/ghdb/575/
+GHDB;;Files containing juicy info;;2004-10-16;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/573/
+GHDB;;Files containing juicy info;;2004-10-16;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/572/
+GHDB;;Files containing juicy info;;2004-10-09;;inurl:odbc.ini ext:ini -cvs;;http://www.exploit-db.com/ghdb/536/
+GHDB;;Files containing juicy info;;2004-10-05;;intext:SQLiteManager inurl:main.php;;http://www.exploit-db.com/ghdb/532/
+GHDB;;Files containing juicy info;;2004-09-29;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/522/
+GHDB;;Files containing juicy info;;2004-09-23;;inurl:/_layouts/settings;;http://www.exploit-db.com/ghdb/505/
+GHDB;;Files containing juicy info;;2004-09-23;;ext:ldif ldif;;http://www.exploit-db.com/ghdb/502/
+GHDB;;Files containing juicy info;;2004-09-11;;filetype:pst inurl:"outlook.pst";;http://www.exploit-db.com/ghdb/497/
+GHDB;;Files containing juicy info;;2004-09-22;;filetype:vcs vcs;;http://www.exploit-db.com/ghdb/494/
+GHDB;;Files containing juicy info;;2004-09-21;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/491/
+GHDB;;Files containing juicy info;;2004-09-18;;Lotus Domino address books;;http://www.exploit-db.com/ghdb/481/
+GHDB;;Files containing juicy info;;2004-09-18;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/476/
+GHDB;;Files containing juicy info;;2004-09-10;;filetype:pdb pdb backup (Pilot | Pluckerdb);;http://www.exploit-db.com/ghdb/472/
+GHDB;;Files containing juicy info;;2004-09-10;;filetype:xls inurl:"email.xls";;http://www.exploit-db.com/ghdb/471/
+GHDB;;Files containing juicy info;;2004-09-10;;filetype:pot inurl:john.pot;;http://www.exploit-db.com/ghdb/469/
+GHDB;;Files containing juicy info;;2004-09-07;;filetype:reg "Terminal Server Client";;http://www.exploit-db.com/ghdb/465/
+GHDB;;Files containing juicy info;;2004-09-07;;filetype:rdp rdp;;http://www.exploit-db.com/ghdb/464/
+GHDB;;Files containing juicy info;;2004-09-07;;inurl:snitz_forums_2000.mdb;;http://www.exploit-db.com/ghdb/462/
+GHDB;;Files containing juicy info;;2004-09-06;;filetype:bkf bkf;;http://www.exploit-db.com/ghdb/457/
+GHDB;;Files containing juicy info;;2004-09-06;;filetype:qbb qbb;;http://www.exploit-db.com/ghdb/456/
+GHDB;;Files containing juicy info;;2004-08-26;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/455/
+GHDB;;Files containing juicy info;;2004-08-25;;Quicken data files;;http://www.exploit-db.com/ghdb/450/
+GHDB;;Files containing juicy info;;2004-08-19;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/446/
+GHDB;;Files containing juicy info;;2004-08-13;;ext:asp inurl:pathto.asp;;http://www.exploit-db.com/ghdb/428/
+GHDB;;Files containing juicy info;;2004-08-09;;filetype:xls -site:gov inurl:contact;;http://www.exploit-db.com/ghdb/424/
+GHDB;;Files containing juicy info;;2004-08-09;;mail filetype:csv -site:gov intext:name;;http://www.exploit-db.com/ghdb/423/
+GHDB;;Files containing juicy info;;2004-08-09;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/418/
+GHDB;;Files containing juicy info;;2004-08-09;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/417/
+GHDB;;Files containing juicy info;;2004-08-05;;filetype:cfg auto_inst.cfg;;http://www.exploit-db.com/ghdb/405/
+GHDB;;Files containing juicy info;;2004-08-05;;filetype:fp7 fp7;;http://www.exploit-db.com/ghdb/404/
+GHDB;;Files containing juicy info;;2004-08-05;;filetype:fp3 fp3;;http://www.exploit-db.com/ghdb/403/
+GHDB;;Files containing juicy info;;2004-08-02;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/400/
+GHDB;;Files containing juicy info;;2004-08-02;;inurl:*db filetype:mdb;;http://www.exploit-db.com/ghdb/399/
+GHDB;;Files containing juicy info;;2004-08-02;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/398/
+GHDB;;Files containing juicy info;;2004-08-01;;filetype:ora ora;;http://www.exploit-db.com/ghdb/394/
+GHDB;;Files containing juicy info;;2004-07-28;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/385/
+GHDB;;Files containing juicy info;;2004-07-26;;inurl:profiles filetype:mdb;;http://www.exploit-db.com/ghdb/378/
+GHDB;;Files containing juicy info;;2004-07-26;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/377/
+GHDB;;Files containing juicy info;;2004-07-26;;intitle:"Index Of" cookies.txt size;;http://www.exploit-db.com/ghdb/376/
+GHDB;;Files containing juicy info;;2004-07-26;;inurl:forum filetype:mdb;;http://www.exploit-db.com/ghdb/375/
+GHDB;;Files containing juicy info;;2004-07-26;;inurl:backup filetype:mdb;;http://www.exploit-db.com/ghdb/374/
+GHDB;;Files containing juicy info;;2004-07-26;;data filetype:mdb -site:gov -site:mil;;http://www.exploit-db.com/ghdb/373/
+GHDB;;Files containing juicy info;;2004-07-26;;inurl:email filetype:mdb;;http://www.exploit-db.com/ghdb/371/
+GHDB;;Files containing juicy info;;2004-07-21;;intitle:"index of" +myd size;;http://www.exploit-db.com/ghdb/368/
+GHDB;;Files containing juicy info;;2004-07-19;;"sets mode: +s";;http://www.exploit-db.com/ghdb/345/
+GHDB;;Files containing juicy info;;2004-07-19;;"sets mode: +p";;http://www.exploit-db.com/ghdb/343/
+GHDB;;Files containing juicy info;;2004-07-15;;inurl:ssl.conf filetype:conf;;http://www.exploit-db.com/ghdb/330/
+GHDB;;Files containing juicy info;;2004-07-12;;private key files (.csr);;http://www.exploit-db.com/ghdb/326/
+GHDB;;Files containing juicy info;;2004-07-12;;private key files (.key);;http://www.exploit-db.com/ghdb/324/
+GHDB;;Files containing juicy info;;2004-07-12;;exported email addresses;;http://www.exploit-db.com/ghdb/317/
+GHDB;;Files containing juicy info;;2004-07-06;;Welcome to ntop!;;http://www.exploit-db.com/ghdb/305/
+GHDB;;Files containing juicy info;;2004-07-06;;MySQL tabledata dumps;;http://www.exploit-db.com/ghdb/304/
+GHDB;;Files containing juicy info;;2004-07-02;;Microsoft Money Data Files;;http://www.exploit-db.com/ghdb/302/
+GHDB;;Files containing juicy info;;2004-06-25;;OWA Public Folders (direct view);;http://www.exploit-db.com/ghdb/300/
+GHDB;;Files containing juicy info;;2004-07-06;;Unreal IRCd;;http://www.exploit-db.com/ghdb/299/
+GHDB;;Files containing juicy info;;2004-06-22;;filetype:ctt ctt messenger;;http://www.exploit-db.com/ghdb/295/
+GHDB;;Files containing juicy info;;2004-06-10;;94FBR "ADOBE PHOTOSHOP";;http://www.exploit-db.com/ghdb/281/
+GHDB;;Files containing juicy info;;2004-05-26;;inurl:forward filetype:forward -cvs;;http://www.exploit-db.com/ghdb/257/
+GHDB;;Files containing juicy info;;2004-05-24;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/251/
+GHDB;;Files containing juicy info;;2004-05-24;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/250/
+GHDB;;Files containing juicy info;;2004-05-24;;inurl:"/cricket/grapher.cgi";;http://www.exploit-db.com/ghdb/249/
+GHDB;;Files containing juicy info;;2004-05-24;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/248/
+GHDB;;Files containing juicy info;;2004-05-18;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/244/
+GHDB;;Files containing juicy info;;2004-05-17;;inurl:php.ini filetype:ini;;http://www.exploit-db.com/ghdb/241/
+GHDB;;Files containing juicy info;;2004-05-17;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/239/
+GHDB;;Files containing juicy info;;2004-05-14;;filetype:blt blt +intext:screenname;;http://www.exploit-db.com/ghdb/237/
+GHDB;;Files containing juicy info;;2004-05-14;;filetype:log access.log -CVS;;http://www.exploit-db.com/ghdb/236/
+GHDB;;Files containing juicy info;;2004-05-14;;filetype:log cron.log;;http://www.exploit-db.com/ghdb/235/
+GHDB;;Files containing juicy info;;2004-05-13;;filetype:lic lic intext:key;;http://www.exploit-db.com/ghdb/228/
+GHDB;;Files containing juicy info;;2004-05-13;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/227/
+GHDB;;Files containing juicy info;;2004-05-12;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/221/
+GHDB;;Files containing juicy info;;2004-05-11;;filetype:mbx mbx intext:Subject;;http://www.exploit-db.com/ghdb/217/
+GHDB;;Files containing juicy info;;2004-05-10;;filetype:wab wab;;http://www.exploit-db.com/ghdb/213/
+GHDB;;Files containing juicy info;;2004-05-06;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/209/
+GHDB;;Files containing juicy info;;2004-05-06;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/208/
+GHDB;;Files containing juicy info;;2004-05-05;;filetype:conf inurl:firewall -intitle:cvs;;http://www.exploit-db.com/ghdb/206/
+GHDB;;Files containing juicy info;;2004-05-04;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/201/
+GHDB;;Files containing juicy info;;2004-05-03;;inurl:tdbin;;http://www.exploit-db.com/ghdb/196/
+GHDB;;Files containing juicy info;;2004-05-03;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/195/
+GHDB;;Files containing juicy info;;2004-04-28;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/189/
+GHDB;;Files containing juicy info;;2004-04-28;;inurl:perl/printenv;;http://www.exploit-db.com/ghdb/186/
+GHDB;;Files containing juicy info;;2004-04-28;;inurl:cgi-bin/printenv;;http://www.exploit-db.com/ghdb/184/
+GHDB;;Files containing juicy info;;2004-04-28;;inurl:fcgi-bin/echo;;http://www.exploit-db.com/ghdb/183/
+GHDB;;Files containing juicy info;;2004-04-26;;inurl:server-status "apache";;http://www.exploit-db.com/ghdb/179/
+GHDB;;Files containing juicy info;;2004-04-21;;"This is a Shareaza Node";;http://www.exploit-db.com/ghdb/175/
+GHDB;;Files containing juicy info;;2004-04-21;;"Running in Child mode";;http://www.exploit-db.com/ghdb/174/
+GHDB;;Files containing juicy info;;2004-04-20;;allinurl:servlet/SnoopServlet;;http://www.exploit-db.com/ghdb/170/
+GHDB;;Files containing juicy info;;2004-04-20;;allinurl:/examples/jsp/snp/snoop.jsp;;http://www.exploit-db.com/ghdb/169/
+GHDB;;Files containing juicy info;;2004-04-16;;inurl:"newsletter/admin/";;http://www.exploit-db.com/ghdb/159/
+GHDB;;Files containing juicy info;;2004-04-16;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/158/
+GHDB;;Files containing juicy info;;2004-04-13;;"Index of" / "chat/logs";;http://www.exploit-db.com/ghdb/155/
+GHDB;;Files containing juicy info;;2004-04-08;;inurl:vbstats.php "page generated";;http://www.exploit-db.com/ghdb/153/
+GHDB;;Files containing juicy info;;2004-04-05;;"#mysql dump" filetype:sql;;http://www.exploit-db.com/ghdb/151/
+GHDB;;Files containing juicy info;;2004-04-05;;intitle:index.of cleanup.log;;http://www.exploit-db.com/ghdb/150/
+GHDB;;Files containing juicy info;;2004-04-05;;intitle:index.of inbox dbx;;http://www.exploit-db.com/ghdb/149/
+GHDB;;Files containing juicy info;;2004-04-05;;intitle:index.of inbox;;http://www.exploit-db.com/ghdb/148/
+GHDB;;Files containing juicy info;;2004-03-30;;"Host Vulnerability Summary Report";;http://www.exploit-db.com/ghdb/147/
+GHDB;;Files containing juicy info;;2004-03-30;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/146/
+GHDB;;Files containing juicy info;;2004-03-29;;"Thank you for your order" +receipt;;http://www.exploit-db.com/ghdb/140/
+GHDB;;Files containing juicy info;;2004-03-29;;"not for distribution" confidential;;http://www.exploit-db.com/ghdb/139/
+GHDB;;Files containing juicy info;;2004-03-24;;inurl:changepassword.asp;;http://www.exploit-db.com/ghdb/137/
+GHDB;;Files containing juicy info;;2004-03-22;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/136/
+GHDB;;Files containing juicy info;;2004-03-16;;inurl:admin filetype:xls;;http://www.exploit-db.com/ghdb/127/
+GHDB;;Files containing juicy info;;2004-03-14;;intitle:admin intitle:login;;http://www.exploit-db.com/ghdb/124/
+GHDB;;Files containing juicy info;;2004-03-14;;inurl:admin intitle:login;;http://www.exploit-db.com/ghdb/123/
+GHDB;;Files containing juicy info;;2004-03-04;;intitle:index.of ws_ftp.ini;;http://www.exploit-db.com/ghdb/112/
+GHDB;;Files containing juicy info;;2004-03-04;;intitle:index.of dead.letter;;http://www.exploit-db.com/ghdb/111/
+GHDB;;Files containing juicy info;;2004-03-04;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/104/
+GHDB;;Files containing juicy info;;2004-03-04;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/102/
+GHDB;;Files containing juicy info;;2004-03-04;;inurl:main.php Welcome to phpMyAdmin;;http://www.exploit-db.com/ghdb/100/
+GHDB;;Files containing juicy info;;2004-03-04;;inurl:main.php phpMyAdmin;;http://www.exploit-db.com/ghdb/99/
+GHDB;;Files containing juicy info;;2004-03-04;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/98/
+GHDB;;Files containing juicy info;;2004-03-04;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/96/
+GHDB;;Files containing juicy info;;2004-03-04;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/95/
+GHDB;;Files containing juicy info;;2004-03-04;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/94/
+GHDB;;Files containing juicy info;;2004-03-04;;ipsec.conf;;http://www.exploit-db.com/ghdb/76/
+GHDB;;Files containing juicy info;;2004-03-04;;ipsec.secrets;;http://www.exploit-db.com/ghdb/75/
+GHDB;;Files containing juicy info;;2004-03-04;;ipsec.secrets;;http://www.exploit-db.com/ghdb/74/
+GHDB;;Files containing juicy info;;2004-03-04;;cgiirc.conf;;http://www.exploit-db.com/ghdb/73/
+GHDB;;Files containing juicy info;;2004-03-04;;cgiirc.conf;;http://www.exploit-db.com/ghdb/72/
+GHDB;;Files containing juicy info;;2004-03-04;;phpMyAdmin dumps;;http://www.exploit-db.com/ghdb/70/
+GHDB;;Files containing juicy info;;2004-03-04;;phpMyAdmin dumps;;http://www.exploit-db.com/ghdb/69/
+GHDB;;Files containing juicy info;;2003-08-19;;mystuff.xml - Trillian data files;;http://www.exploit-db.com/ghdb/54/
+GHDB;;Files containing juicy info;;2003-07-10;;site:edu admin grades;;http://www.exploit-db.com/ghdb/47/
+GHDB;;Files containing juicy info;;2003-06-30;;haccess.ctl (VERY reliable);;http://www.exploit-db.com/ghdb/44/
+GHDB;;Files containing juicy info;;2003-06-30;;haccess.ctl (one way);;http://www.exploit-db.com/ghdb/43/
+GHDB;;Files containing juicy info;;2003-06-30;;"generated by wwwstat";;http://www.exploit-db.com/ghdb/42/
+GHDB;;Files containing juicy info;;2003-06-30;;"produced by getstats";;http://www.exploit-db.com/ghdb/41/
+GHDB;;Files containing juicy info;;2003-06-27;;"This report was generated by WebLog";;http://www.exploit-db.com/ghdb/40/
+GHDB;;Files containing juicy info;;2003-06-27;;robots.txt;;http://www.exploit-db.com/ghdb/31/
+GHDB;;Files containing juicy info;;2004-11-18;;phpinfo();;http://www.exploit-db.com/ghdb/28/
+GHDB;;Files containing juicy info;;2003-06-24;;AIM buddy lists;;http://www.exploit-db.com/ghdb/26/
+GHDB;;Files containing juicy info;;2003-06-24;;mt-db-pass.cgi files;;http://www.exploit-db.com/ghdb/12/
+GHDB;;Files containing juicy info;;2003-06-24;;sQL data dumps;;http://www.exploit-db.com/ghdb/8/
+GHDB;;Files containing juicy info;;2003-06-24;;Financial spreadsheets: finances.xls;;http://www.exploit-db.com/ghdb/7/
+GHDB;;Files containing juicy info;;2003-06-24;;Financial spreadsheets: finance.xls;;http://www.exploit-db.com/ghdb/6/
+GHDB;;Files containing juicy info;;2003-06-24;;inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]";;http://www.exploit-db.com/ghdb/3/
+GHDB;;Files containing juicy info;;2003-06-24;;Ganglia Cluster Reports;;http://www.exploit-db.com/ghdb/2/
+GHDB;;Files containing juicy info;;2003-06-24;;squid cache server reports;;http://www.exploit-db.com/ghdb/1/

@@ -1,0 +1,20 @@
+GHDB;;Sensitive Directories;;2013-08-08;;inurl:8080 intitle:"Dashboard [Jenkins]";;http://www.exploit-db.com/ghdb/3876/
+GHDB;;Sensitive Directories;;2013-08-08;;intitle:index.of intext:.bash_history;;http://www.exploit-db.com/ghdb/3858/
+GHDB;;Sensitive Directories;;2013-08-08;;intext:xampp-dav-unsecure:$apr1$6O9scpDQ$JGw2Tjz0jkrqfKh5hhiqD1;;http://www.exploit-db.com/ghdb/3857/
+GHDB;;Sensitive Directories;;2013-04-09;;"index of" inurl:sym;;http://www.exploit-db.com/ghdb/3837/
+GHDB;;Sensitive Directories;;2013-04-09;;"index of" inurl:root intitle:symlink;;http://www.exploit-db.com/ghdb/3836/
+GHDB;;Sensitive Directories;;2012-11-02;;inurl:ckfinder intext:"ckfinder.html" intitle:"Index of /ckfinder";;http://www.exploit-db.com/ghdb/3806/
+GHDB;;Sensitive Directories;;2011-11-19;;inurl:/xampp;;http://www.exploit-db.com/ghdb/3753/
+GHDB;;Sensitive Directories;;2010-11-10;;allintext:"WebServerX Server at" ;;http://www.exploit-db.com/ghdb/1432/
+GHDB;;Sensitive Directories;;2010-11-10;;intitle:index.of ios -site:cisco.com ;;http://www.exploit-db.com/ghdb/1430/
+GHDB;;Sensitive Directories;;2010-11-10;;intitle:index.of cisco asa -site:cisco.com ;;http://www.exploit-db.com/ghdb/1429/
+GHDB;;Sensitive Directories;;2006-07-14;;intitle:index.of.config;;http://www.exploit-db.com/ghdb/1398/
+GHDB;;Sensitive Directories;;2006-02-28;;allintitle:"FirstClass Login";;http://www.exploit-db.com/ghdb/1309/
+GHDB;;Sensitive Directories;;2006-01-16;;inurl:install.pl intext:"Reading path paramaters" -edu;;http://www.exploit-db.com/ghdb/1250/
+GHDB;;Sensitive Directories;;2005-12-01;;"Warning: Installation directory exists at" "Powered by Zen Cart" -demo;;http://www.exploit-db.com/ghdb/1214/
+GHDB;;Sensitive Directories;;2005-11-28;;"Welcome to the directory listing of" "NetworkActiv-Web-Server";;http://www.exploit-db.com/ghdb/1209/
+GHDB;;Sensitive Directories;;2005-11-11;;log inurl:linklint filetype:txt -"checking";;http://www.exploit-db.com/ghdb/1177/
+GHDB;;Sensitive Directories;;2005-09-26;;"Directory Listing for" "Hosted by Xerver";;http://www.exploit-db.com/ghdb/1149/
+GHDB;;Sensitive Directories;;2005-09-26;;intitle:"Folder Listing" "Folder Listing" Name Size Date/Time File Folder;;http://www.exploit-db.com/ghdb/1148/
+GHDB;;Sensitive Directories;;2005-09-13;;intitle:"Backup-Management (phpMyBackup v.0.4 beta * )" -johnny.ihackstuff;;http://www.exploit-db.com/ghdb/1107/
+GHDB;;Sensitive Directories;;2005-07-21;;intitle:"pictures thumbnails" site:pictures.sprintpcs.com;;http://www.exploit-db.com/ghdb/1033/

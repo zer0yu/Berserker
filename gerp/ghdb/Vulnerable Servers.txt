@@ -1,0 +1,74 @@
+GHDB;;Vulnerable Servers;;2013-08-08;;inurl:.php? intext:CHARACTER_SETS,COLLATIONS, ?intitle:phpmyadmin;;http://www.exploit-db.com/ghdb/3862/
+GHDB;;Vulnerable Servers;;2012-12-31;;inurl:/wp-content/w3tc/dbcache/;;http://www.exploit-db.com/ghdb/3827/
+GHDB;;Vulnerable Servers;;2012-12-31;;intext:SQL syntax & inurl:index.php?=id & inurl:gov & inurl:gov;;http://www.exploit-db.com/ghdb/3826/
+GHDB;;Vulnerable Servers;;2012-08-21;;intext: intext: intext: intext: intext:;;http://www.exploit-db.com/ghdb/3803/
+GHDB;;Vulnerable Servers;;2012-05-15;;intitle:awen+intitle:asp.net;;http://www.exploit-db.com/ghdb/3781/
+GHDB;;Vulnerable Servers;;2012-05-15;;intitle:"-N3t" filetype:php undetectable;;http://www.exploit-db.com/ghdb/3779/
+GHDB;;Vulnerable Servers;;2011-12-23;;inurl:.php intitle:- BOFF 1.0 intext:[ Sec. Info ];;http://www.exploit-db.com/ghdb/3766/
+GHDB;;Vulnerable Servers;;2011-11-25;;filetype:php inurl:tiki-index.php +sirius +1.9.*;;http://www.exploit-db.com/ghdb/3757/
+GHDB;;Vulnerable Servers;;2011-11-24;;filetype:php inanchor:c99 inurl:c99 intitle:c99shell -seeds -marijuana;;http://www.exploit-db.com/ghdb/3756/
+GHDB;;Vulnerable Servers;;2011-11-19;;inurl:php intitle:"Cpanel , FTP CraCkeR";;http://www.exploit-db.com/ghdb/3752/
+GHDB;;Vulnerable Servers;;2011-10-11;;intitle:#k4raeL - sh3LL;;http://www.exploit-db.com/ghdb/3745/
+GHDB;;Vulnerable Servers;;2011-09-26;;inurl:view.php?board1_sn=;;http://www.exploit-db.com/ghdb/3743/
+GHDB;;Vulnerable Servers;;2011-07-26;;intitle:m1n1 1.01;;http://www.exploit-db.com/ghdb/3735/
+GHDB;;Vulnerable Servers;;2011-05-03;;intitle:Locus7shell intext:"Software:";;http://www.exploit-db.com/ghdb/3716/
+GHDB;;Vulnerable Servers;;2011-03-23;;intitle:"[EasyPHP] - Administration";;http://www.exploit-db.com/ghdb/3703/
+GHDB;;Vulnerable Servers;;2011-02-24;;MySQL: ON MSSQL: OFF Oracle: OFF MSSQL: OFF PostgreSQL: OFF cURL: ON WGet: ON Fetch: OFF Perl: ON;;http://www.exploit-db.com/ghdb/3691/
+GHDB;;Vulnerable Servers;;2011-02-24;;intitle:cyber anarchy shell;;http://www.exploit-db.com/ghdb/3690/
+GHDB;;Vulnerable Servers;;2010-12-10;;inurl:/vb/install/upgrade.php ;;http://www.exploit-db.com/ghdb/3643/
+GHDB;;Vulnerable Servers;;2010-12-10;;inurl:/vb/install/install.php;;http://www.exploit-db.com/ghdb/3642/
+GHDB;;Vulnerable Servers;;2010-12-09;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/3640/
+GHDB;;Vulnerable Servers;;2010-12-08;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/3639/
+GHDB;;Vulnerable Servers;;2010-12-07;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/3637/
+GHDB;;Vulnerable Servers;;2010-12-07;;"r57shell";;http://www.exploit-db.com/ghdb/3635/
+GHDB;;Vulnerable Servers;;2010-12-07;;"r57shell 1.4";;http://www.exploit-db.com/ghdb/3634/
+GHDB;;Vulnerable Servers;;2010-12-07;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/3633/
+GHDB;;Vulnerable Servers;;2010-11-13;;inurl:index.php?pagedb=rss -Vulnerability -inurl;;http://www.exploit-db.com/ghdb/1437/
+GHDB;;Vulnerable Servers;;2006-05-03;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/1352/
+GHDB;;Vulnerable Servers;;2006-04-25;;intitle:"MvBlog powered";;http://www.exploit-db.com/ghdb/1336/
+GHDB;;Vulnerable Servers;;2006-02-03;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/1256/
+GHDB;;Vulnerable Servers;;2006-01-22;;inurl:rpSys.html;;http://www.exploit-db.com/ghdb/1255/
+GHDB;;Vulnerable Servers;;2006-01-16;;filetype:pl intitle:"Ultraboard Setup";;http://www.exploit-db.com/ghdb/1249/
+GHDB;;Vulnerable Servers;;2005-09-17;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/1118/
+GHDB;;Vulnerable Servers;;2005-09-16;;XOOPS Custom Installation;;http://www.exploit-db.com/ghdb/1115/
+GHDB;;Vulnerable Servers;;2005-09-15;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/1114/
+GHDB;;Vulnerable Servers;;2005-07-03;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/1027/
+GHDB;;Vulnerable Servers;;2005-06-11;;"html allowed" guestbook;;http://www.exploit-db.com/ghdb/1020/
+GHDB;;Vulnerable Servers;;2005-03-19;;"Powered by: vBulletin Version 1.1.5";;http://www.exploit-db.com/ghdb/913/
+GHDB;;Vulnerable Servers;;2005-01-26;;inurl:"/NSearch/AdminServlet";;http://www.exploit-db.com/ghdb/833/
+GHDB;;Vulnerable Servers;;2005-01-06;;inurl:servlet/webacc;;http://www.exploit-db.com/ghdb/809/
+GHDB;;Vulnerable Servers;;2004-12-27;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/806/
+GHDB;;Vulnerable Servers;;2004-12-04;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/753/
+GHDB;;Vulnerable Servers;;2004-11-07;;inurl:newsdesk.cgi? inurl:"t=";;http://www.exploit-db.com/ghdb/654/
+GHDB;;Vulnerable Servers;;2004-11-07;;(inurl:/shop.cgi/page=) | (inurl:/shop.pl/page=);;http://www.exploit-db.com/ghdb/653/
+GHDB;;Vulnerable Servers;;2004-11-06;;inurl:aol*/_do/rss_popup?blogID=;;http://www.exploit-db.com/ghdb/652/
+GHDB;;Vulnerable Servers;;2004-11-05;;natterchat inurl:home.asp -site:natterchat.co.uk;;http://www.exploit-db.com/ghdb/642/
+GHDB;;Vulnerable Servers;;2004-10-31;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/639/
+GHDB;;Vulnerable Servers;;2004-08-21;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/448/
+GHDB;;Vulnerable Servers;;2004-08-20;;"ftp://" "www.eastgame.net";;http://www.exploit-db.com/ghdb/440/
+GHDB;;Vulnerable Servers;;2004-08-13;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/425/
+GHDB;;Vulnerable Servers;;2004-07-29;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/388/
+GHDB;;Vulnerable Servers;;2004-07-29;;inurl:"index.php? module=ew_filemanager";;http://www.exploit-db.com/ghdb/387/
+GHDB;;Vulnerable Servers;;2004-07-26;;filetype:cgi inurl:"fileman.cgi";;http://www.exploit-db.com/ghdb/384/
+GHDB;;Vulnerable Servers;;2004-07-26;;filetype:cgi inurl:"Web_Store.cgi";;http://www.exploit-db.com/ghdb/379/
+GHDB;;Vulnerable Servers;;2004-07-26;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/370/
+GHDB;;Vulnerable Servers;;2004-06-04;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/271/
+GHDB;;Vulnerable Servers;;2004-06-04;;filetype:php inurl:vAuthenticate;;http://www.exploit-db.com/ghdb/269/
+GHDB;;Vulnerable Servers;;2004-05-04;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/202/
+GHDB;;Vulnerable Servers;;2004-04-28;;intitle:"Gateway Configuration Menu";;http://www.exploit-db.com/ghdb/192/
+GHDB;;Vulnerable Servers;;2004-04-28;;inurl:pls/admin_/gateway.htm;;http://www.exploit-db.com/ghdb/190/
+GHDB;;Vulnerable Servers;;2004-04-06;;allinurl:install/install.php;;http://www.exploit-db.com/ghdb/152/
+GHDB;;Vulnerable Servers;;2004-03-29;;allinurl:intranet admin;;http://www.exploit-db.com/ghdb/141/
+GHDB;;Vulnerable Servers;;2004-03-29;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/138/
+GHDB;;Vulnerable Servers;;2004-03-18;;"Welcome to PHP-Nuke" congratulations;;http://www.exploit-db.com/ghdb/131/
+GHDB;;Vulnerable Servers;;2004-03-14;;inurl:info.inc.php;;http://www.exploit-db.com/ghdb/122/
+GHDB;;Vulnerable Servers;;2004-03-14;;inurl:footer.inc.php;;http://www.exploit-db.com/ghdb/121/
+GHDB;;Vulnerable Servers;;2004-03-04;;inurl:search.php vbulletin;;http://www.exploit-db.com/ghdb/120/
+GHDB;;Vulnerable Servers;;0000-00-00;;"Welcome to Intranet";;http://www.exploit-db.com/ghdb/119/
+GHDB;;Vulnerable Servers;;2004-03-04;;intitle:"Remote Desktop Web Connection";;http://www.exploit-db.com/ghdb/118/
+GHDB;;Vulnerable Servers;;2004-03-04;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/117/
+GHDB;;Vulnerable Servers;;2004-03-04;;inurl:ManyServers.htm;;http://www.exploit-db.com/ghdb/116/
+GHDB;;Vulnerable Servers;;2004-03-04;;"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to";;http://www.exploit-db.com/ghdb/103/
+GHDB;;Vulnerable Servers;;2004-03-04;;Gallery in configuration mode;;http://www.exploit-db.com/ghdb/71/
+GHDB;;Vulnerable Servers;;2004-03-04;;"YaBB SE Dev Team";;http://www.exploit-db.com/ghdb/63/
+GHDB;;Vulnerable Servers;;2003-07-08;;Hassan Consulting's Shopping Cart Version 1.18;;http://www.exploit-db.com/ghdb/46/

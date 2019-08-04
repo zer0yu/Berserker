@@ -1,0 +1,17 @@
+GHDB;;Files containing usernames;;2013-04-22;;intext:"root:x:0:0:root:/root:/bin/bash" inurl:*=/etc/passwd;;http://www.exploit-db.com/ghdb/3848/
+GHDB;;Files containing usernames;;2013-04-22;;inurl:"/root/etc/passwd" intext:"home/*:";;http://www.exploit-db.com/ghdb/3847/
+GHDB;;Files containing usernames;;2006-07-31;;site:extremetracking.com inurl:"login=";;http://www.exploit-db.com/ghdb/1399/
+GHDB;;Files containing usernames;;2005-06-05;;intext:"SteamUserPassphrase=" intext:"SteamAppUser=" -"username" -"user";;http://www.exploit-db.com/ghdb/1007/
+GHDB;;Files containing usernames;;2004-06-19;;OWA Public folders & Address book;;http://www.exploit-db.com/ghdb/292/
+GHDB;;Files containing usernames;;2004-05-20;;filetype:conf inurl:proftpd.conf -sample;;http://www.exploit-db.com/ghdb/245/
+GHDB;;Files containing usernames;;2004-05-13;;filetype:log username putty;;http://www.exploit-db.com/ghdb/230/
+GHDB;;Files containing usernames;;2004-05-12;;filetype:reg reg +intext:"internet account manager";;http://www.exploit-db.com/ghdb/220/
+GHDB;;Files containing usernames;;2004-05-11;;filetype:reg reg HKEY_CURRENT_USER username;;http://www.exploit-db.com/ghdb/214/
+GHDB;;Files containing usernames;;2004-05-03;;+intext:"webalizer" +intext:"Total Usernames" +intext:"Usage Statistics for";;http://www.exploit-db.com/ghdb/197/
+GHDB;;Files containing usernames;;2004-04-28;;inurl:php inurl:hlstats intext:"Server Username";;http://www.exploit-db.com/ghdb/194/
+GHDB;;Files containing usernames;;2004-04-13;;index.of perform.ini;;http://www.exploit-db.com/ghdb/156/
+GHDB;;Files containing usernames;;2004-04-13;;"index of" / lck;;http://www.exploit-db.com/ghdb/154/
+GHDB;;Files containing usernames;;2004-03-16;;inurl:admin filetype:asp inurl:userlist;;http://www.exploit-db.com/ghdb/129/
+GHDB;;Files containing usernames;;2004-03-16;;inurl:admin inurl:userlist;;http://www.exploit-db.com/ghdb/128/
+GHDB;;Files containing usernames;;2003-06-24;;sh_history files;;http://www.exploit-db.com/ghdb/10/
+GHDB;;Files containing usernames;;2003-06-24;;bash_history files;;http://www.exploit-db.com/ghdb/9/
