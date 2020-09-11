@@ -13,7 +13,7 @@
 
 * Burp Suite
 * [wfuzz](https://github.com/xmendez/wfuzz)
-* [xray](https://github.com/chaitin/xray)
+* [ffuf](https://github.com/ffuf/ffuf)
 * OWASP Zap
 * 自己开发针对性的fuzz脚本
 * 本人也开发了相应的fuzz工具随后也可能放出来
@@ -22,6 +22,7 @@
 
 1.  [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
 2. [web fuzz attack](https://github.com/l3m0n/WebFuzzAttack)
+3.  即将更新文章来讲述如何进行有效的webfuzz
 
 ## 致谢
 
