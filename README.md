@@ -1,9 +1,8 @@
 # Berserker
 
-针对Pentest或者CTF的一个fuzz payload项目。
+Berserker is a comprehensive fuzz payload project designed for Penetration Testing and Capture the Flag (CTF) scenarios.
 
-## 特点
+## Features
 
-- 整合了各种来源的payload，比如[*fuzzdb*](https://github.com/fuzzdb-project/fuzzdb), [*fuzz*Dicts](https://github.com/TheKingOfDuck/fuzzDicts), [*ScanLists*](https://github.com/ring04h/ScanLists) 等
-- 团队在针对CTF、渗透测试等场景下的自建fuzz payload
-
+- Integrates payloads from various sources including fuzzdb, fuzzDicts, ScanLists, and more.
+- Includes custom fuzz payloads crafted by our team for specific use in CTF and penetration testing contexts.
